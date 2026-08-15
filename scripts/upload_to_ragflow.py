@@ -25,7 +25,7 @@ DATASET_ID = "a0486a9a980911f181954d2a096f88c6"  # 考公知识库
 
 # GitHub 公开仓库（每日时政）
 GITHUB_USER = "bukeliyu2002"
-GITHUB_REPO = "每日时政"
+GITHUB_REPO = "daily-politics"
 GITHUB_BRANCH = "main"
 RAW_URL = f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/data/"
 

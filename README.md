@@ -14,7 +14,7 @@
 ## 前端读取地址
 
 ```
-https://cdn.jsdelivr.net/gh/bukeliyu2002/每日时政@main/data/politics.json
+https://cdn.jsdelivr.net/gh/bukeliyu2002/daily-politics@main/data/politics.json
 ```
 
 ## 本地手动运行
