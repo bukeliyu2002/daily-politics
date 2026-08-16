@@ -3,8 +3,8 @@
 ## 三层存储架构
 
 ### 第一层：时政数据（每日时政，本项目新增）
-- **存储位置**：GitHub 公开仓库 `bukeliyu2002/每日时政` → `data/politics.json`
-- **CDN 分发**：jsDelivr `https://cdn.jsdelivr.net/gh/bukeliyu2002/每日时政@main/data/politics.json`
+- **存储位置**：GitHub 公开仓库 `bukeliyu2002/daily-politics` → `data/politics.json`
+- **CDN 分发**：jsDelivr `https://cdn.jsdelivr.net/gh/bukeliyu2002/daily-politics@main/data/politics.json`
 - **更新机制**：GitHub Actions 每日 07:00（北京时间）自动抓取官方新闻源生成
 - **浏览器缓存**：localStorage 键 `shizheng_cache_v1`（首次访问后保留）
 - **可见范围**：任何人可见（公开仓库）
