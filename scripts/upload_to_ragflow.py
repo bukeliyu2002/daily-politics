@@ -58,6 +58,11 @@ def http_post_json(url, headers, body, timeout=30):
 
 
 def http_get_text(url, timeout=20):
+    # 对 URL 中的中文等非 ASCII 字符做百分号编码（raw.githubusercontent 要求）
+    try:
+        url = urllib.request.quote(url, safe=":/?=&%+-._~")
+    except Exception:
+        pass
     req = urllib.request.Request(url, headers={"User-Agent": "shizheng-uploader/1.0"})
     try:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
