@@ -32,9 +32,31 @@ if os.path.exists(_env_path):
     except Exception as _e:
         print(f"[warn] 读取 .env 失败: {_e}")
 
-RAGFLOW_BASE_URL = os.environ.get("RAGFLOW_BASE_URL", "http://192.168.0.105:9380")
+# RAGFlow 地址列表：优先 Tailscale（远程可访问），回退局域网 IP（在家直连）
+# 顺序 = 尝试优先级，第一个能连通的即使用
+RAGFLOW_BASE_URLS = [
+    "http://100.80.126.35:9380",   # Tailscale 地址（首选，不受局域网限制）
+    "http://192.168.0.105:9380",   # 局域网地址（兜底）
+]
 RAGFLOW_API_KEY = os.environ.get("RAGFLOW_API_KEY", "")  # 在 RAGFlow Web 设置 → API Key 创建，存放于 .env
 DATASET_ID = "a0486a9a980911f181954d2a096f88c6"  # 考公知识库
+
+def pick_ragflow_base(timeout=5):
+    """探测哪个 RAGFlow 地址可用（Tailscale 优先）"""
+    for base in RAGFLOW_BASE_URLS:
+        try:
+            req = urllib.request.Request(base + "/api/v1/datasets", headers={"Authorization": f"Bearer {RAGFLOW_API_KEY}"})
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                code = resp.read().decode("utf-8", errors="ignore")
+                if '"code"' in code or resp.status in (200, 401, 400):
+                    print(f"[+] 使用 RAGFlow 地址: {base}")
+                    return base
+        except Exception:
+            continue
+    print(f"[warn] 所有 RAGFlow 地址均不可达: {RAGFLOW_BASE_URLS}")
+    return RAGFLOW_BASE_URLS[0]
+
+RAGFLOW_BASE_URL = os.environ.get("RAGFLOW_BASE_URL", "") or pick_ragflow_base()
 
 # GitHub 公开仓库（每日时政）
 GITHUB_USER = "bukeliyu2002"
