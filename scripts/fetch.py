@@ -16,6 +16,21 @@ import datetime
 import urllib.request
 import urllib.error
 
+# ===== 北京时间时区（GitHub Actions 运行在 UTC，必须显式用北京时间） =====
+try:
+    from zoneinfo import ZoneInfo
+    TZ_BJ = ZoneInfo("Asia/Shanghai")
+except ImportError:
+    TZ_BJ = datetime.timezone(datetime.timedelta(hours=8))
+
+def bj_now():
+    """北京时间当前时刻（带时区）"""
+    return datetime.datetime.now(TZ_BJ)
+
+def bj_today():
+    """北京时间当前日期"""
+    return bj_now().date()
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, "data")
 JSON_PATH = os.path.join(DATA_DIR, "politics.json")
@@ -242,7 +257,7 @@ def summary_from_url(url):
 
 
 def main():
-    print(f"[*] 开始抓取: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    print(f"[*] 开始抓取: {bj_now().strftime('%Y-%m-%d %H:%M:%S')} (北京时间)")
     print("[*] 合规声明: 仅抓取官方权威源，每日 1 次低频，遵守各站 robots.txt，只存标题+摘要+来源链接")
 
     all_items = []
@@ -255,12 +270,12 @@ def main():
     all_items = dedupe(all_items)
     print(f"[*] 去重后: {len(all_items)} 条")
 
-    today = datetime.date.today().isoformat()
+    today = bj_today().isoformat()
     enriched = []
     for i, it in enumerate(all_items[:40]):  # 单日最多 40 条
         it["category"] = classify(it["title"])
         it["date"] = today
-        it["time"] = datetime.datetime.now().strftime("%H:%M")
+        it["time"] = bj_now().strftime("%H:%M")
         summary = summary_from_url(it["url"]) if i < 12 else ""
         it["summary"] = summary
         enriched.append(it)
@@ -277,11 +292,11 @@ def main():
     new_day = {"date": today, "items": enriched}
     days = [d for d in old_data.get("days", []) if d.get("date") != today]
     days.insert(0, new_day)
-    cutoff = (datetime.date.today() - datetime.timedelta(days=90)).isoformat()
+    cutoff = (bj_today() - datetime.timedelta(days=90)).isoformat()
     days = [d for d in days if d.get("date", "") >= cutoff]
 
     output = {
-        "updatedAt": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S+08:00"),
+        "updatedAt": bj_now().strftime("%Y-%m-%dT%H:%M:%S+08:00"),
         "days": days,
     }
     os.makedirs(DATA_DIR, exist_ok=True)

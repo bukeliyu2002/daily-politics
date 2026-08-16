@@ -19,8 +19,21 @@ import urllib.error
 import json
 
 # ============ 配置（请填入） ============
+# 自动加载同目录 .env 文件（RAGFLOW_API_KEY 存放在 .env，不入 git）
+_env_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env")
+if os.path.exists(_env_path):
+    try:
+        with open(_env_path, "r", encoding="utf-8") as _f:
+            for _line in _f:
+                _line = _line.strip()
+                if _line and not _line.startswith("#") and "=" in _line:
+                    _k, _v = _line.split("=", 1)
+                    os.environ.setdefault(_k.strip(), _v.strip())
+    except Exception as _e:
+        print(f"[warn] 读取 .env 失败: {_e}")
+
 RAGFLOW_BASE_URL = os.environ.get("RAGFLOW_BASE_URL", "http://192.168.0.105:9380")
-RAGFLOW_API_KEY = os.environ.get("RAGFLOW_API_KEY", "")  # 在 RAGFlow Web 设置 → API Key 创建
+RAGFLOW_API_KEY = os.environ.get("RAGFLOW_API_KEY", "")  # 在 RAGFlow Web 设置 → API Key 创建，存放于 .env
 DATASET_ID = "a0486a9a980911f181954d2a096f88c6"  # 考公知识库
 
 # GitHub 公开仓库（每日时政）
@@ -131,8 +144,15 @@ def upload_to_ragflow(date_str):
 
 
 def main():
-    today = datetime.date.today().isoformat()
-    print(f"[*] RAGFlow 入库任务，启动时间 {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+    # 北京时间（脚本可能在 UTC 环境下运行，必须显式用北京时间）
+    try:
+        from zoneinfo import ZoneInfo
+        _tz = ZoneInfo("Asia/Shanghai")
+    except ImportError:
+        _tz = datetime.timezone(datetime.timedelta(hours=8))
+    _now = datetime.datetime.now(_tz)
+    today = _now.date().isoformat()
+    print(f"[*] RAGFlow 入库任务，启动时间 {_now.strftime('%Y-%m-%d %H:%M:%S')} (北京时间)")
     print(f"[*] 目标数据集：{DATASET_ID}（考公知识库）")
     print(f"[*] RAGFlow 地址：{RAGFLOW_BASE_URL}")
     print(f"[*] 目标日期：{today}")
