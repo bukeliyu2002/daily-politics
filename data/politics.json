@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T00:43:28+08:00",
+  "updatedAt": "2026-08-17T12:05:31+08:00",
   "days": [
     {
       "date": "2026-08-17",
@@ -10,7 +10,7 @@
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": "新华社兰州8月13日电（记者任延昕）英仙座流星雨是北半球每年8月值得期待的天文盛事。12日晚，“流星盛宴·相约敦煌”主题活动在西北地区优质暗夜观测地——甘肃敦煌雅丹国家地质公园举办。活动吸引了大量游客、市民前来观星，沉浸式体验戈壁暗夜星空文"
         },
         {
@@ -19,7 +19,7 @@
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": "新华社长春8月12日电（记者唐铭泽、黄雨寒）立秋已至，吉林省白城市镇赉县田野间一片繁忙。来自江西上饶的吕小云蹲在茭白田里清理杂草，观察植株长势；南京农业大学学生童以珩正在实验室分析田间采集的土壤样本；来自江苏宜兴的赵国文沿着田垄查看管护情况"
         },
         {
@@ -28,17 +28,62 @@
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": "新华社成都8月11日电（记者胥冰洁）八月的泸定县，天气时雨时晴。大渡河穿城而过，两岸青山云雾缭绕；河面上，泸定桥已横跨两岸三百余年。"
         },
         {
-          "url": "https://www.news.cn/politics/20260811/3132be0cd8b145e48e0ab7dc7f074bea/c.html",
-          "title": "台风天，这些安全提示请收好",
+          "url": "https://www.news.cn/politics/20260816/98739e768f7649ec92d777b9da2081e4/c.html",
+          "title": "新华视点丨极端降雨考验北方城市韧性",
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
-          "summary": "台风“白海豚”9日两次登陆浙江。受其影响，浙江、上海、江苏、安徽、湖北、河南、河北等地未来三天将有持续性大范围强降雨。"
+          "time": "12:05",
+          "summary": "近年来，北方地区极端降雨天气频发，给城市防洪排涝带来挑战，也暴露出一些城市防洪排涝体系的薄弱环节。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/19f53ac67b5a4756a64951e92017b80f/c.html",
+          "title": "多地新发现一批日军侵华史料实物",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
+          "summary": "1945年8月15日，日本战败，宣布无条件投降。近日，多地多家纪念馆、档案馆公布了一批新发现和收集的日军侵华证据，涵盖侵华日军士兵私人信件、口述证言，战时新闻报道集，有关部队官方文书，幸存“慰安妇”实物、照片、视频史料等，来源广泛、相互印证"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/3216647131334ec1bed6c8c97d0e0ce6/c.html",
+          "title": "向新向绿 山东滨州传统产业打造新优势",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
+          "summary": "传统产业是山东滨州的家底，也是转型的考题。“十五五”开局之年，山东滨州如何让高耗能、高排放的传统工业焕发新生，拼出产业新格局？来看记者一线观察。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/f933c2b6287d4e0492b78cee92c320c3/c.html",
+          "title": "文旅新探 | 打卡“龙餐馆” 读懂一座西北矿区的光影新生",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
+          "summary": "近期，电影《欢迎来龙餐馆》热映，一个“隐藏彩蛋”被观众发现，片中大量场景，竟然是在我国大西北的宁夏石嘴山市石炭井取景拍摄的。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260815/355285b049ee4e9ab66f03fd24e55353/c.html",
+          "title": "水利部：沙颍河周口段水位今明两天仍将维持超保",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
+          "summary": "新华社北京8月15日电（记者魏弘毅、翟濯）记者15日从水利部获悉，经全力抢险处置，沙颍河支流贾鲁河堤坝溃口15日晚成功合龙。目前沙颍河洪峰已通过周口段，但沙颍河周口段水位今明两天仍将维持超保。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/9553ff63c7924af19b3ebf5a33695aa9/c.html",
+          "title": "应急管理部调派13支排涝队伍赴周口开展排涝作业",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
+          "summary": "新华社北京8月16日电记者16日从应急管理部获悉，为协助做好河南周口市区排涝工作，应急管理部从河南、陕西、江苏、安徽、山东、湖南等地，调派应急管理部自然灾害工程应急救援中心（中国安能）、8支国家安全生产应急救援排涝力量、陕西机动排涝队、徐工"
         },
         {
           "url": "https://www.news.cn/politics/20260813/5d1adf2593f046b0a6cf349cc62d6885/c.html",
@@ -46,7 +91,7 @@
           "source": "新华网",
           "category": "政策",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": "为全面有效贯彻实施《中华人民共和国生态环境法典》，确保生态环境法律制度体系逻辑统一、规则协调，国务院对涉及的行政法规进行了清理。经过清理，国务院决定："
         },
         {
@@ -55,7 +100,7 @@
           "source": "新华网",
           "category": "政策",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": "新华社北京8月13日电（记者高敬、魏弘毅）生态环境部副部长徐必久表示，我国正在抓紧制定新一轮空气质量持续改善行动方案，也是第四个“大气十条”。"
         },
         {
@@ -64,7 +109,7 @@
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": "新华社北京8月13日电（记者刘祯）8月13日，2026未来科学大奖在北京揭晓。中国科学院生物物理研究所研究员张宏获“生命科学奖”，复旦大学教授赵东元获“物质科学奖”，北京大学北京国际数学研究中心教授袁新意获“数学与计算机科学奖”。"
         },
         {
@@ -73,8 +118,8 @@
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
-          "summary": "新华社消息丨两部门紧急预拨8000万元中央自然灾害救灾资金-"
+          "time": "12:05",
+          "summary": ""
         },
         {
           "url": "https://www.news.cn/politics/20260813/e073c0fd94dd44618a046ae8d7c37b8d/c.html",
@@ -82,8 +127,8 @@
           "source": "新华网",
           "category": "民生",
           "date": "2026-08-17",
-          "time": "00:43",
-          "summary": "新华社成都8月13日电（记者吴晓颖）针对西南医科大学中西医结合学院辅导员在年级QQ群发布教材选购不当言论一事，13日该校官方发布情况通报称，已对该辅导员予以严肃批评教育，并责令其在年级QQ群公开致歉。"
+          "time": "12:05",
+          "summary": ""
         },
         {
           "url": "https://www.news.cn/politics/20260812/4c2c72e299ef4561915d2e507393a81f/c.html",
@@ -91,133 +136,79 @@
           "source": "新华网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
-          "summary": "新华社北京8月12日电中国共产党中央委员会、中华人民共和国全国人民代表大会常务委员会、中华人民共和国国务院、中国人民政治协商会议全国委员会沉痛宣告：中国共产党的优秀党员，久经考验的忠诚的共产主义战士，杰出的无产阶级革命家、政治家，党和国家的"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260812/5253445b22b843d395c79982942ed75b/c.html",
-          "title": "731部队海拉尔支队档案揭露日军掩盖细菌战罪行",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-17",
-          "time": "00:43",
-          "summary": "侵华日军第七三一部队罪证陈列馆12日公布了原731部队海拉尔支队（满洲第543部队）《身上申告书》档案。该档案显示侵华日军曾假借常规步兵名义掩护细菌战罪行，并揭示了战后苏联持续追责日本细菌战罪行的历史细节。"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260813/cb0bae041e9c449682a1c1f72dc59877/c.html",
-          "title": "“十五五”开局之年各地培育壮大新兴产业观察",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-17",
-          "time": "00:43",
-          "summary": "新兴产业是加快形成新质生产力的关键抓手，是推动经济转型升级的重要支撑。"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260813/ee0c0bcc15a74cdbb49fa4f1e3c536b5/c.html",
-          "title": "从百花奖看国产电影创作趋势",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "url": "https://www.news.cn/politics/20260813/938eda9b0c6e42a0a1a4ac59e5758942/c.html",
-          "title": "中国全方位推动人工智能全球治理走深走实",
-          "source": "新华网",
-          "category": "科技",
-          "date": "2026-08-17",
-          "time": "00:43",
-          "summary": ""
-        },
-        {
-          "url": "https://www.news.cn/politics/20260812/6f9e6f6f65e64ab6b8eadbc9d2b33d5d/c.html",
-          "title": "时代人物丨在时代大河里为人民放歌——追忆郭兰英",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-17",
-          "time": "00:43",
-          "summary": ""
-        },
-        {
-          "title": "中国品牌汽车走进非洲千家万户",
-          "url": "https://world.people.com.cn/n1/2026/0816/c1002-40780240.html",
+          "title": "习近平：江泽民同志的一生，是光辉的一生、战斗的一生",
+          "url": "http://politics.people.com.cn/n1/2026/0817/c1024-40781013.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "数智护航中国新能源汽车“出海”",
-          "url": "http://world.people.com.cn/n1/2026/0313/c1002-40681391.html",
+          "title": "习近平：实现中华民族伟大复兴前景光明 梦想正一步步成为现实",
+          "url": "http://politics.people.com.cn/n1/2026/0817/c1024-40781015.html",
           "source": "人民网",
-          "category": "科技",
+          "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "中国新能源汽车拓展东南亚绿色经济版图",
-          "url": "https://world.people.com.cn/n1/2026/0508/c1002-40715949.html",
+          "title": "纪念江泽民同志诞辰100周年大会开始 现场奏唱国歌",
+          "url": "http://politics.people.com.cn/n1/2026/0817/c1024-40781017.html",
           "source": "人民网",
-          "category": "经济",
+          "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
-          "summary": ""
-        },
-        {
-          "title": "中国品牌汽车持续走俏墨西哥市场",
-          "url": "http://world.people.com.cn/n1/2026/0731/c1002-40771268.html",
-          "source": "人民网",
-          "category": "经济",
-          "date": "2026-08-17",
-          "time": "00:43",
-          "summary": ""
-        },
-        {
-          "title": "中国新能源企业在中东遇见“幸福的烦恼”",
-          "url": "http://world.people.com.cn/n1/2026/0814/c1002-40779284.html",
-          "source": "人民网",
-          "category": "科技",
-          "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
           "title": "朱镕基同志遗体18日火化 天安门等地将下半旗志哀",
-          "url": "http://politics.people.com.cn/n1/2026/0816/c1001-40780424.html",
+          "url": "http://politics.people.com.cn/n1/2026/0817/c1001-40780473.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "今日谈|算好三本账 走稳绿色路",
-          "url": "http://opinion.people.com.cn/n1/2026/0816/c461529-40780236.html",
+          "title": "引领全面建设社会主义现代化强国的历史性跨越",
+          "url": "http://opinion.people.com.cn/n1/2026/0817/c461530-40780520.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "教育科技人才\"三位一体\"的强国策",
-          "url": "http://opinion.people.com.cn/n1/2026/0814/c461530-40779261.html",
+          "title": "和音|跨国车企续\"长约\",锚定中国市场确定性",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780493.html",
           "source": "人民网",
-          "category": "民生",
+          "category": "经济",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "住建城管领域以\"减负增效\"惠民生",
-          "url": "http://politics.people.com.cn/n1/2026/0816/c461001-40780251.html",
+          "title": "\"陇东粮仓\"长出另一种\"粮食\"",
+          "url": "http://politics.people.com.cn/n1/2026/0817/c461001-40780475.html",
           "source": "人民网",
           "category": "民生",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
+          "summary": ""
+        },
+        {
+          "title": "侵略者家书,就是日本军国主义的自供状",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780499.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
           "summary": ""
         },
         {
@@ -226,97 +217,106 @@
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "多地新发现一批日军侵华史料实物",
-          "url": "http://politics.people.com.cn/n1/2026/0816/c1001-40780404.html",
+          "title": "韩国庆尚南道泥石流致一人死亡、20余人被困",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780637.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "中国使馆:日政要参拜靖国神社严重挑战战后国际秩序",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780220.html",
-          "source": "人民网",
-          "category": "国际",
-          "date": "2026-08-17",
-          "time": "00:43",
-          "summary": ""
-        },
-        {
-          "title": "印尼强震死亡人数升至47人",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780223.html",
+          "title": "哥伦比亚强震已致289人死亡 逾18万人受灾",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780592.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "厄瓜多尔总统抵京开始访华",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780230.html",
+          "title": "评论丨练好“钉钉子”的功夫",
+          "url": "http://opinion.people.com.cn/n1/2026/0817/c461529-40780515.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "推动中厄全面战略伙伴关系走深走实",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780241.html",
+          "title": "理论丨构建自主完备、开放高效的国家创新体系",
+          "url": "http://opinion.people.com.cn/n1/2026/0817/c461530-40780521.html",
           "source": "人民网",
-          "category": "要闻",
+          "category": "科技",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "中华民族共同体的历史演进与中华民族伟大复兴",
-          "url": "http://politics.people.com.cn/n1/2026/0816/c461001-40780435.html",
+          "title": "交流互鉴，助力中非携手迈向现代化",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780506.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "“中国为全球防治荒漠化作出重要贡献”",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780242.html",
+          "title": "高市早苗政府错误行径引发日本国内和周边国家强烈批评",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780498.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "中欧北极快航常态化 20天直达欧洲",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780239.html",
+          "title": "厚植中非友好事业的社会基础",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780507.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "欧洲加速汽车电动化转型挑战产业传统格局",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780405.html",
+          "title": "记者手记丨让伦敦听见中国绿色航运的“青年声音”",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780772.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
-          "title": "日本侵略历史不容翻案 重蹈覆辙必遭彻底清算",
-          "url": "http://world.people.com.cn/n1/2026/0816/c1002-40780379.html",
+          "title": "“国家发展的关键基础设施”",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780495.html",
           "source": "人民网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
+          "summary": ""
+        },
+        {
+          "title": "伊斯兰堡举行中国文化体验活动",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780501.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
+          "summary": ""
+        },
+        {
+          "title": "2026“中国戏演出季”在奥地利启幕",
+          "url": "http://world.people.com.cn/n1/2026/0817/c1002-40780496.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-17",
+          "time": "12:05",
           "summary": ""
         },
         {
@@ -325,7 +325,7 @@
           "source": "中国政府网",
           "category": "政策",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
@@ -334,7 +334,7 @@
           "source": "中国政府网",
           "category": "要闻",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
@@ -343,7 +343,7 @@
           "source": "中国政府网",
           "category": "政策",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
@@ -352,7 +352,7 @@
           "source": "中国政府网",
           "category": "政策",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         },
         {
@@ -361,7 +361,7 @@
           "source": "中国政府网",
           "category": "政策",
           "date": "2026-08-17",
-          "time": "00:43",
+          "time": "12:05",
           "summary": ""
         }
       ]

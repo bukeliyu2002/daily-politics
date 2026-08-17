@@ -302,14 +302,35 @@ def main():
     os.makedirs(DATA_DIR, exist_ok=True)
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"[+] 已写入 {JSON_PATH}，共 {len(days)} 天记录")
+    print(f"[+] 已写入 {JSON_PATH}（完整按天归档，共 {len(days)} 天记录）")
 
-    # ---- 写 Markdown（供知识库入库）----
+    # ---- 写 Markdown（供 RAGFlow 知识库入库）----
+    # 入库去重：md 只收录「历史未出现过的标题」（首次出现的新闻），
+    # 减少 RAGFlow 检索冗余；politics.json 仍保持完整按天归档供前端浏览
     md_path = os.path.join(DATA_DIR, f"每日时政-{today}.md")
+    hist_keys = set()
+    for d in old_data.get("days", []):
+        for it in d.get("items", []):
+            key = re.sub(r"[\s，。、·—\-（）()「」“”\"':：]", "", it.get("title", ""))
+            if key:
+                hist_keys.add(key)
+    md_items = []
+    for it in enriched:
+        key = re.sub(r"[\s，。、·—\-（）()「」“”\"':：]", "", it.get("title", ""))
+        if key and key not in hist_keys:
+            md_items.append(it)
+            hist_keys.add(key)  # 同日多条去重也防住
+    dropped = len(enriched) - len(md_items)
+    if dropped:
+        print(f"[i] 入库去重：{dropped} 条为历史/当日重复，不写入 md（RAGFlow 检索更干净）")
+
     lines = [f"# 每日时政要点（{today}）", "",
              f"> 数据来源：新华网 / 人民网 / 中国政府网 / 央视新闻，仅供个人学习使用。", ""]
+    if not md_items:
+        lines.append("> 今日无新增时政（历史已收录的新闻不再重复入库）。")
+        lines.append("")
     for cat in ["要闻", "政策", "经济", "民生", "科技", "国际", "法治"]:
-        cat_items = [it for it in enriched if it["category"] == cat]
+        cat_items = [it for it in md_items if it["category"] == cat]
         if not cat_items:
             continue
         lines.append(f"## {cat}")
@@ -321,7 +342,7 @@ def main():
         lines.append("")
     with open(md_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"[+] 已写入 {md_path}")
+    print(f"[+] 已写入 {md_path}（入库去重后 {len(md_items)} 条）")
 
     print("[*] 完成")
     return 0
