@@ -96,13 +96,47 @@ def http_get_text(url, timeout=20):
 
 # ============ 主流程 ============
 
+def delete_old_shizheng_docs(headers):
+    """删除知识库中所有旧的「每日时政-*.md」文档（替换旧版：库里只保留最新一份）"""
+    deleted = 0
+    try:
+        list_url = f"{RAGFLOW_BASE_URL}/api/v1/datasets/{DATASET_ID}/documents?page=1&page_size=100"
+        req = urllib.request.Request(list_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read().decode("utf-8"))
+        docs = data.get("data", {}).get("docs", [])
+        # 筛选名称匹配「每日时政-」的文档
+        old_ids = [d["id"] for d in docs if d.get("name", "").startswith("每日时政-")]
+        if not old_ids:
+            print("[i] 无旧时政文档，直接上传新版本")
+            return 0
+        # 调用删除 API（RAGFlow 用 ids 字段）
+        del_url = f"{RAGFLOW_BASE_URL}/api/v1/datasets/{DATASET_ID}/documents"
+        del_body = json.dumps({"ids": old_ids}).encode("utf-8")
+        del_req = urllib.request.Request(del_url, data=del_body, method="DELETE", headers={**headers, "Content-Type": "application/json"})
+        with urllib.request.urlopen(del_req, timeout=30) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+        if result.get("code") == 0:
+            deleted = len(old_ids)
+            print(f"[+] 已删除 {deleted} 份旧时政文档（替换旧版）")
+        else:
+            print(f"[warn] 删除旧文档失败: {result}")
+    except urllib.error.HTTPError as e:
+        print(f"[warn] 查询/删除旧文档 HTTP {e.code}: {e.read().decode('utf-8', errors='ignore')[:150]}")
+    except Exception as e:
+        print(f"[warn] 删除旧文档异常: {e}")
+    return deleted
+
+
 def upload_to_ragflow(date_str):
-    """把 data/每日时政-YYYY-MM-DD.md 下载并上传到 RAGFlow"""
+    """把 data/每日时政-YYYY-MM-DD.md 下载并上传到 RAGFlow（先删旧版，再传新版）"""
     if not RAGFLOW_API_KEY:
         print("[err] RAGFLOW_API_KEY 未设置，请先在 RAGFlow Web 设置 → API Key 创建并填入")
         return False
 
     headers = {"Authorization": f"Bearer {RAGFLOW_API_KEY}"}
+    # 替换旧版：先删旧时政文档
+    delete_old_shizheng_docs(headers)
     md_url = RAW_URL + f"每日时政-{date_str}.md"
     print(f"[*] 拉取: {md_url}")
     content = http_get_text(md_url)
