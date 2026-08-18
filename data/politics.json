@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-08-18T07:50:54+08:00",
+  "updatedAt": "2026-08-19T07:51:24+08:00",
   "days": [
+    {
+      "date": "2026-08-19",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260814/98b501cc76b8486390c3636c4604a129/c.html",
+          "title": "敦煌打造星空文旅新体验",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "新华社兰州8月13日电（记者任延昕）英仙座流星雨是北半球每年8月值得期待的天文盛事。12日晚，“流星盛宴·相约敦煌”主题活动在西北地区优质暗夜观测地——甘肃敦煌雅丹国家地质公园举办。活动吸引了大量游客、市民前来观星，沉浸式体验戈壁暗夜星空文"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260817/fadbd81ff83c42108e7c3adb868b9f11/c.html",
+          "title": "多部门发文进一步保障农业灌溉用水安全",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "新华社北京8月17日电（记者高敬）生态环境部会同工业和信息化部、农业农村部等部门近日联合印发通知，进一步加强工业、畜禽养殖等企业污水污染风险防范，保障农业灌溉用水安全。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260818/8eb28e9c050b40bbb5cc924a114a8b93/c.html",
+          "title": "两部门预拨6000万元支持河南应急抢险救灾",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "新华社北京8月18日电近期，受强台风“白海豚”残余环流影响，河南出现大范围持续性强降雨，引发灾情险情。在前期预拨4000万元中央自然灾害救灾资金的基础上，8月18日，财政部、应急管理部再次预拨6000万元中央自然灾害救灾资金，支持河南做好防"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260818/cab27f0269ba4ff385afb24de71b3f03/c.html",
+          "title": "我们的“十五五”丨未来五年，大好河山添新绿",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "“十五五”开局之年，生态环境部等部门联合印发《生态保护“十五五”规划》。未来五年，我们的家园会变成什么样？一起来看看。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260817/780e2c5d7419436faa034d76c9c6a4f4/c.html",
+          "title": "国家防办、应急管理部向新疆增调中央抗旱物资",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "国家防总办公室、应急管理部向新疆增调中央抗旱物资支持做好抗旱减灾工作"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260817/abc1c4cfe1fa4889b4e20726ec219a33/c.html",
+          "title": "医保支付改革让“家门口”就医“治得好、负担小”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "“以前有点头疼脑热，总想着往大医院跑。现在不一样了，社区医院不仅报销得多，开药检查也很方便！”在安徽合肥蜀山区笔架山街道社区卫生服务中心，前来看病的王先生说。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260817/f5cf7966c09f460f86f2f0cf4fefbfbb/c.html",
+          "title": "两部门发文提出2030年国内油气供应量目标",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "新华社北京8月17日电（记者王悦阳、赵怡宁）记者8月17日从国家能源局获悉，国家发展改革委、国家能源局日前印发的《石油天然气发展“十五五”规划》提出，到2030年，国内油气供应量达4.4亿吨油当量。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260817/4ff1e8c269d1437c87edfda3cf24c903/c.html",
+          "title": "“十四五”期间市场监管部门部署开展专项行动 促进优化营商环境",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "新华社北京8月17日电（记者赵怡宁）记者17日从国家市场监督管理总局了解到，“十四五”时期，市场监管部门部署开展滥用行政权力排除、限制竞争执法相关专项行动，依法查处案件290件，促进优化营商环境，服务全国统一大市场建设。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/98739e768f7649ec92d777b9da2081e4/c.html",
+          "title": "新华视点丨极端降雨考验北方城市韧性",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "近年来，北方地区极端降雨天气频发，给城市防洪排涝带来挑战，也暴露出一些城市防洪排涝体系的薄弱环节。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/19f53ac67b5a4756a64951e92017b80f/c.html",
+          "title": "多地新发现一批日军侵华史料实物",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "1945年8月15日，日本战败，宣布无条件投降。近日，多地多家纪念馆、档案馆公布了一批新发现和收集的日军侵华证据，涵盖侵华日军士兵私人信件、口述证言，战时新闻报道集，有关部队官方文书，幸存“慰安妇”实物、照片、视频史料等，来源广泛、相互印证"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/3216647131334ec1bed6c8c97d0e0ce6/c.html",
+          "title": "向新向绿 山东滨州传统产业打造新优势",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "传统产业是山东滨州的家底，也是转型的考题。“十五五”开局之年，山东滨州如何让高耗能、高排放的传统工业焕发新生，拼出产业新格局？来看记者一线观察。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/f933c2b6287d4e0492b78cee92c320c3/c.html",
+          "title": "文旅新探 | 打卡“龙餐馆” 读懂一座西北矿区的光影新生",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": "近期，电影《欢迎来龙餐馆》热映，一个“隐藏彩蛋”被观众发现，片中大量场景，竟然是在我国大西北的宁夏石嘴山市石炭井取景拍摄的。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260815/355285b049ee4e9ab66f03fd24e55353/c.html",
+          "title": "水利部：沙颍河周口段水位今明两天仍将维持超保",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260816/9553ff63c7924af19b3ebf5a33695aa9/c.html",
+          "title": "应急管理部调派13支排涝队伍赴周口开展排涝作业",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260813/5d1adf2593f046b0a6cf349cc62d6885/c.html",
+          "title": "受权发布丨国务院关于修改和废止部分行政法规的决定",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "习近平李强赵乐际王沪宁蔡奇丁薛祥李希韩正等到八宝山革命公墓送别",
+          "url": "http://politics.people.com.cn/n1/2026/0819/c1024-40781963.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "习近平同厄瓜多尔总统会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0819/c1024-40781964.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "公布关于修改《住房公积金管理条例》的决定",
+          "url": "http://politics.people.com.cn/n1/2026/0819/c1001-40782017.html",
+          "source": "人民网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "赵乐际主持召开十四届全国人大常委会委员长会议",
+          "url": "http://politics.people.com.cn/n1/2026/0819/c1024-40781966.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "以政治建军高质量保证国防和军队建设高质量",
+          "url": "http://opinion.people.com.cn/n1/2026/0819/c461530-40781992.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "国际论坛|守护日本宪法的和平属性刻不容缓",
+          "url": "http://world.people.com.cn/n1/2026/0819/c1002-40781976.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "博物馆应有\"打开门\"的自信",
+          "url": "http://opinion.people.com.cn/n1/2026/0815/c436867-40780158.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "中方呼吁国际社会坚持多轨并进推动解决利比亚问题",
+          "url": "http://world.people.com.cn/n1/2026/0819/c1002-40782040.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+          "url": "http://world.people.com.cn/n1/2026/0819/c1002-40781961.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "叙利亚发现数吨核材料 将接受国际原子能机构监督",
+          "url": "http://world.people.com.cn/n1/2026/0819/c1002-40781959.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "理论丨决策如何做到科学合理",
+          "url": "http://opinion.people.com.cn/n1/2026/0819/c461530-40781993.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "评论丨“心中有数、手中有策、行动有力”",
+          "url": "http://opinion.people.com.cn/n1/2026/0819/c461529-40781987.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "中国汽车在欧洲市场“跑”得有多快？",
+          "url": "http://world.people.com.cn/n1/2026/0819/c1002-40781982.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "中企助力埃塞俄比亚铺就“发展路”",
+          "url": "http://world.people.com.cn/n1/2026/0819/c1002-40781975.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "大使随笔：共同谱写中约战略伙伴关系新篇章",
+          "url": "http://world.people.com.cn/n1/2026/0818/c1002-40781276.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "环球热点：中美企业讨论热烈成果满满",
+          "url": "http://world.people.com.cn/n1/2026/0818/c1002-40781480.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "“助力孟加拉国电力结构优化和经济发展”",
+          "url": "http://world.people.com.cn/n1/2026/0818/c1002-40781280.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "第四届俄罗斯—中国互利合作“萌芽”论坛开幕",
+          "url": "http://world.people.com.cn/n1/2026/0818/c1002-40781283.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "中拉青年为“2026减贫营”贡献创新方案",
+          "url": "http://world.people.com.cn/n1/2026/0818/c1002-40781580.html",
+          "source": "人民网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "“出口中国”埃及专场活动在开罗举行",
+          "url": "http://world.people.com.cn/n1/2026/0818/c1002-40781581.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改《住房公积金管理条例》的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改和废止部分行政法规的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077887.htm",
+          "source": "中国政府网",
+          "category": "要闻",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        },
+        {
+          "title": "集成电路布图设计保护条例",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077398.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-19",
+          "time": "07:51",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-08-18",
       "items": [
