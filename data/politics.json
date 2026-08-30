@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-08-30T07:08:11+08:00",
+  "updatedAt": "2026-08-31T07:07:58+08:00",
   "days": [
+    {
+      "date": "2026-08-31",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260828/7ac9083880684fb889dc8e58b39d2164/c.html",
+          "title": "新华社权威快报丨农业法完成修订",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "十四届全国人大常委会第二十四次会议8月28日表决通过新修订的农业法，自2027年1月1日起施行。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/40abac9837234a7bbde32724372c67c9/c.html",
+          "title": "全国医疗卫生机构总诊疗人次超106亿",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社北京8月28日电（记者李恒）国家卫生健康委8月28日发布的《2025年我国卫生健康事业发展统计公报》显示，2025年，全国医疗卫生机构总诊疗人次106.5亿，比上年增加5.1亿人次，居民人均预期寿命达到79.25岁，孕产妇死亡率下降到"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/e0d07f089dc3416ba85146779bef9971/c.html",
+          "title": "国家防总、应急管理部针对江西湖南启动防汛四级应急响应",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "今年第18号台风“沙德尔”已于8月28日上午登陆浙江沿海。据气象部门预测，受台风“沙德尔”影响，未来三天，江西、湖南两省大部将出现大到暴雨，其中江西北部和西南部、湖南东北部和南部等地部分地区大暴雨。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/34ba63bef99546cb98d96ba101a5ffc9/c.html",
+          "title": "我的2027奋斗目标丨赵志鹏：飞进每一场祖国需要的战斗中",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "2027年，我们将迎来建军一百周年。百年征程，人民军队从烽火硝烟中走来，一代代官兵矢志不渝、接续奋斗，用忠诚与担当托举强军伟业。如今，距离建军一百年已进入倒计时，时代的考卷已经铺展在每一个战位。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/0ec6d0a245764b028318feaa5efa3d3b/c.html",
+          "title": "发扬职业精神 恪守职业道德——《中国新闻工作者职业道德准则》颁布实施35周年座谈会综述",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社北京8月27日电题：发扬职业精神恪守职业道德——《中国新闻工作者职业道德准则》颁布实施35周年座谈会综述"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/3223c142e4c54bb8ac5251780a1b6c54/c.html",
+          "title": "新华视点｜灾害因何发生？救援进展如何——直击西藏吉隆泥石流灾害四大关切",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社西藏吉隆8月27日电题：灾害因何发生？救援进展如何——直击西藏吉隆泥石流灾害四大关切"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/696ad221d8864c5b943c2a0c88df2afd/c.html",
+          "title": "解放军和武警部队官兵奋战西藏吉隆救援一线",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社西藏吉隆8月27日电（刘言明、张磊峰）8月26日，尼泊尔一侧突发大规模泥石流灾害，西藏日喀则市吉隆县吉隆口岸遭受波及，造成重大人员伤亡、失联，当地通信、交通通行条件严重受损，抢险救援任务刻不容缓。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/07efa1d6ba5745118ce6d0cd74a5dbdf/c.html",
+          "title": "人大常委会丨加力推动常态化帮扶 扎实推进乡村全面振兴——来自全国人大常委会专题询问现场的声音",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社北京8月27日电题：加力推动常态化帮扶扎实推进乡村全面振兴——来自全国人大常委会专题询问现场的声音"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/1c3dcfd3a5fd4151995b7b5b4679e758/c.html",
+          "title": "我国首版全国几何基准影像成果发布",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社北京8月27日电（记者王立彬）在8月29日全国测绘法宣传日到来前夕，我国首版覆盖全部陆地国土的国家级几何基准影像正式发布。全国空间分辨率整体达到0.5米，遥感影像定位精度整体提升1倍以上。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/b7dc2754d7d343b283e0bc5f590ad76b/c.html",
+          "title": "国网西藏电力继续加大吉隆保电力量",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "新华社北京8月27日电（记者戴小河）记者27日从国家电网获悉，国网西藏电力昼夜驰援在吉隆镇集结应急保电力量，截至27日4时，已到达抢修人员85人、发电车7台、发电机2台、照明类装备19台。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/7d5ff2f0769a469baf7bf260e4a86ed4/c.html",
+          "title": "跨越长江的“菜农专线”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "铜陵公交38路是安徽省铜陵市的一条跨江公交线路，也是江北菜农进城卖菜最主要的出行选择。以往菜农为了赶上第一班公交车，凌晨两三点就要到车站排队，而且需要与其他乘客挤在一个车厢里。针对这些痛点，铜陵市公交总公司近日开通跨江助农专线，首班车专属菜"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/63bba821caf14b128950e36e094836f3/c.html",
+          "title": "殷玉珍×“赛考斯”｜刷屏全网的沙海重逢，完整始末看这里",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": "殷玉珍×“赛考斯”｜刷屏全网的沙海重逢，完整始末看这里-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/d07f50f7c0cd48b29c0d0773ade6852c/c.html",
+          "title": "西藏交通部门紧急向吉隆县梯级部署抢险救灾力量",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/6b001d090223425f8be5d1b9addf800c/c.html",
+          "title": "平陆运河货轮实船适航试验顺利完成",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260826/f94b8abc101448eb886713febd84c65d/c.html",
+          "title": "国家能源局协调指导开展西藏日喀则市吉隆县泥石流灾害抢修复电和供电保障工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "离京出席2026年上海合作组织峰会并对吉尔吉斯斯坦、埃及进行国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1024-40789082.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "总统夫妇热情迎接！吉尔吉斯斯坦高规格欢迎习主席抵达",
+          "url": "http://politics.people.com.cn/n1/2026/0830/c461001-40788979.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "一组镜头感受“中吉友好之路”",
+          "url": "http://politics.people.com.cn/n1/2026/0830/c461001-40788980.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "7年之后，重读那篇署名文章",
+          "url": "https://world.people.com.cn/n1/2026/0830/c1002-40788953.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "六个字母带你认识吉尔吉斯斯坦",
+          "url": "https://world.people.com.cn/n1/2026/0830/c1002-40788897.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "习近平抵达吉尔吉斯斯坦比什凯克玛纳斯国际机场发表书面讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0830/c1024-40788935.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "《平\"语\"近人——习近平喜欢的典故》(多语种版)在上合组织国家媒体播出",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1001-40789081.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "为推动构建上海合作组织命运共同体注入新动力",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789021.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "国际论坛|不断释放上合组织合作潜力",
+          "url": "http://opinion.people.com.cn/n1/2026/0831/c461529-40789022.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "\"中国始终发挥着积极、建设性作用\"——访上海合作组织秘书长叶尔梅克巴耶夫",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789020.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "打造共建\"一带一路\"合作新的示范项目",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789019.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "从\"陆锁国\"到\"陆联国\"——筑就通途 承载梦想",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789018.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "中国—埃及媒体高质量共建\"一带一路\"联合采访成果分享会举行",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789015.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "中国家电企业赋能\"埃及制造\"",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789013.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0826/c1024-40786613.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及前瞻",
+          "url": "http://politics.people.com.cn/n1/2026/0827/c461001-40786760.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "中国与上合组织其他成员国贸易额占我外贸总额8%",
+          "url": "https://world.people.com.cn/n1/2026/0827/c1002-40787423.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "贡献上合智慧 推进中吉友好",
+          "url": "https://world.people.com.cn/n1/2026/0828/c1002-40787485.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "外交部发言人介绍有关安排和中方期待",
+          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786704.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "一组海报带你了解上合组织",
+          "url": "https://world.people.com.cn/n1/2026/0826/c1002-40786682.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
+          "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+          "url": "https://www.gov.cn/zhengce/202608/content_7078711.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改《住房公积金管理条例》的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改和废止部分行政法规的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-08-31",
+          "time": "07:07",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-08-30",
       "items": [
