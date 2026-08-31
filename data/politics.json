@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-08-31T07:07:58+08:00",
+  "updatedAt": "2026-09-01T07:08:00+08:00",
   "days": [
+    {
+      "date": "2026-09-01",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260830/9fd671c50ef148199f8c24130a6d2006/c.html",
+          "title": "挺进西藏吉隆泥石流灾区——解放军和武警部队官兵救援现场见闻",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "8月30日，西藏军区某旅出动直升机执行转运投送任务，救援人员装载救灾物资和救援装备，准备运往吉隆口岸受灾核心区域。新华社发（周峰摄）"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260830/380b9c27847e4d04b32ae8f39096d251/c.html",
+          "title": "新华社消息丨水利部：普热普强藏布堰塞湖已基本排空",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "新华社消息丨水利部：普热普强藏布堰塞湖已基本排空-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260830/135b72214bce43dc89fcded3dace9643/c.html",
+          "title": "辽宁大连：“海上矿仓”正式亮相",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "8月30日，由恒力重工集团有限公司建造的两艘超大型矿砂船（VLOC）在辽宁省大连市正式亮相。两艘新船分别被命名为WINNINGCREATION“韦立创世轮”和WINNINGDEVOTION“韦立挚诚轮”，是恒力重工集团有限公司为客户打造的新"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260830/fb8858193d494bebaa23cb39dfd6c37e/c.html",
+          "title": "还剩1.25公里 专业救援力量争分夺秒打通口岸关键通道",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "8月30日，中国安能出动110名救援人员，28台（套）包括挖掘机、装载机等主战和监测装备，在G216损毁路段持续开展抢通作业，争分夺秒打通往吉隆口岸的关键通道。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260831/8aa61de4d17a4984bdf5cb8aaf9e028c/c.html",
+          "title": "一份童书榜单引发关注——警惕“成功学”带偏孩子的阅读",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "《成大事者：我命由我不由天》《狼之道》《孩子，你要懂点人情世故》……前一段时间，一份业内机构发布的2025年童书销售榜单引发社会关注。在这份榜单里，如上述有关“成功学”的童书占据前列。“成功学”童书为何会“霸榜”？这些书籍对孩子成长会造成什"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260831/e934f45bacd5430baa066d9f9c4d1aeb/c.html",
+          "title": "2030年我国将基本建成现代农产品产地市场体系",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "记者从农业农村部获悉：《全国农产品产地市场体系发展“十五五”规划》印发，规划提出，到2030年，契合产业、产需衔接、高效顺畅、内联外通的现代农产品产地市场体系基本建成，农产品供给保障和服务带动小农户能力稳步提升。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260831/68dbb4023e3a4a15ade579dc83d315a1/c.html",
+          "title": "两部门印发《物流网建设实施方案》——推动物流基础设施“成链成网”",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "近日，在江西省宜春市宜丰县棠浦镇塘岭村，快递员在配送快递包裹。周亮摄（人民视觉）"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/7ac9083880684fb889dc8e58b39d2164/c.html",
+          "title": "新华社权威快报丨农业法完成修订",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "十四届全国人大常委会第二十四次会议8月28日表决通过新修订的农业法，自2027年1月1日起施行。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/40abac9837234a7bbde32724372c67c9/c.html",
+          "title": "全国医疗卫生机构总诊疗人次超106亿",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "新华社北京8月28日电（记者李恒）国家卫生健康委8月28日发布的《2025年我国卫生健康事业发展统计公报》显示，2025年，全国医疗卫生机构总诊疗人次106.5亿，比上年增加5.1亿人次，居民人均预期寿命达到79.25岁，孕产妇死亡率下降到"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/e0d07f089dc3416ba85146779bef9971/c.html",
+          "title": "国家防总、应急管理部针对江西湖南启动防汛四级应急响应",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "今年第18号台风“沙德尔”已于8月28日上午登陆浙江沿海。据气象部门预测，受台风“沙德尔”影响，未来三天，江西、湖南两省大部将出现大到暴雨，其中江西北部和西南部、湖南东北部和南部等地部分地区大暴雨。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/34ba63bef99546cb98d96ba101a5ffc9/c.html",
+          "title": "我的2027奋斗目标丨赵志鹏：飞进每一场祖国需要的战斗中",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "2027年，我们将迎来建军一百周年。百年征程，人民军队从烽火硝烟中走来，一代代官兵矢志不渝、接续奋斗，用忠诚与担当托举强军伟业。如今，距离建军一百年已进入倒计时，时代的考卷已经铺展在每一个战位。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/0ec6d0a245764b028318feaa5efa3d3b/c.html",
+          "title": "发扬职业精神 恪守职业道德——《中国新闻工作者职业道德准则》颁布实施35周年座谈会综述",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:07",
+          "summary": "新华社北京8月27日电题：发扬职业精神恪守职业道德——《中国新闻工作者职业道德准则》颁布实施35周年座谈会综述"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260828/3223c142e4c54bb8ac5251780a1b6c54/c.html",
+          "title": "新华视点｜灾害因何发生？救援进展如何——直击西藏吉隆泥石流灾害四大关切",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260827/696ad221d8864c5b943c2a0c88df2afd/c.html",
+          "title": "解放军和武警部队官兵奋战西藏吉隆救援一线",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平同吉尔吉斯斯坦总统扎帕罗夫会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1024-40789599.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席吉尔吉斯斯坦总统扎帕罗夫举行的欢迎仪式",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1024-40789519.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "中华人民共和国和吉尔吉斯共和国关于高质量发展新时代全面战略伙伴关系的联合宣言",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40789747.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见俄罗斯总统普京",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1024-40789733.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见乌兹别克斯坦总统米尔济约耶夫",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1024-40789730.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见蒙古国总统呼日勒苏赫",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1024-40789731.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "壹视界·心相知|从习主席讲述的故事,感悟中埃友好",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c461001-40789708.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平在埃及媒体发表署名文章《风雨同舟七十载,踔厉奋发新征程》",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789749.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "埃及总统塞西在人民日报发表署名文章《携手共创埃中两国人民及全人类更加繁荣未来》",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40789748.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "彭丽媛同吉尔吉斯斯坦总统扎帕罗夫夫人扎帕罗娃参观吉尔吉斯共和国国家历史博物馆",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1001-40789671.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "上合组织秘书长:全球治理倡议与\"上海精神\"高度 契合",
+          "url": "https://world.people.com.cn/n1/2026/0831/c1002-40789550.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "8月30日至9月3日，国家主席习近平将出席在比什凯克举行的2026年上海合作组织峰会，并应吉尔吉斯斯坦总统扎帕罗夫、埃及总统塞西邀请对两国进行国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0826/c1024-40786613.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席出席上合组织峰会并访问吉尔吉斯斯坦、埃及前瞻",
+          "url": "http://politics.people.com.cn/n1/2026/0827/c461001-40786760.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "中国与上合组织其他成员国贸易额占我外贸总额8%",
+          "url": "https://world.people.com.cn/n1/2026/0827/c1002-40787423.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "贡献上合智慧 推进中吉友好",
+          "url": "https://world.people.com.cn/n1/2026/0828/c1002-40787485.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "外交部发言人介绍有关安排和中方期待",
+          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786704.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "一组海报带你了解上合组织",
+          "url": "https://world.people.com.cn/n1/2026/0826/c1002-40786682.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "国际观察 | 上合组织25周年：全球南方合作的多边样板",
+          "url": "https://world.people.com.cn/n1/2026/0828/c1002-40787918.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "文章强调，党要管党，才能管好党；从严治党，才能治好党",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c1001-40789579.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "《求是》杂志编辑部：切实把管党治党政治责任落实到位",
+          "url": "http://politics.people.com.cn/n1/2026/0831/c461001-40789626.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
+          "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+          "url": "https://www.gov.cn/zhengce/202608/content_7078711.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改《住房公积金管理条例》的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改和废止部分行政法规的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于重点林区“十五五”期间森林年采伐限额的复函",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077887.htm",
+          "source": "中国政府网",
+          "category": "要闻",
+          "date": "2026-09-01",
+          "time": "07:08",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-08-31",
       "items": [
