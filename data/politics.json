@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-03T07:12:45+08:00",
+  "updatedAt": "2026-09-04T07:13:11+08:00",
   "days": [
+    {
+      "date": "2026-09-04",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260903/47f8d6c249b74182a9b429191c88b292/c.html",
+          "title": "海报丨铭记伟大胜利 凝聚和平力量",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "今天，是中国人民抗日战争暨世界反法西斯战争胜利81周年纪念日，这是每一个中国人永远铭记的日子。回望峥嵘岁月，十四载浴血奋战，十四载艰苦卓绝，无数中华儿女以生命护家国，取得伟大胜利。如今，硝烟散尽，山河安宁，那段用血泪书写的历史，我们永不敢忘"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260901/af1ac7dc1dac453d8c95dfa5f73fa40c/c.html",
+          "title": "30年京九铁路启新程",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "记者从中国国家铁路集团有限公司获悉，2026年9月1日，京九铁路全线开通运营30周年。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260831/405610864888476e8875ffda75169021/c.html",
+          "title": "中国西南边陲“空中校车”和“水上校车”护航求学路",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "新华社昆明8月31日电题：中国西南边陲“空中校车”和“水上校车”护航求学路"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260830/9fd671c50ef148199f8c24130a6d2006/c.html",
+          "title": "挺进西藏吉隆泥石流灾区——解放军和武警部队官兵救援现场见闻",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "8月30日，西藏军区某旅出动直升机执行转运投送任务，救援人员装载救灾物资和救援装备，准备运往吉隆口岸受灾核心区域。新华社发（周峰摄）"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260902/14abc2e2a2a0457a9339efec9de577dd/c.html",
+          "title": "中央各抢险企业挺进西藏吉隆泥石流灾害核心区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "新华社北京9月2日电（记者戴小河、李倩薇）目前，西藏吉隆口岸核心区域救援通道基本打通，救援人员、救援物资和部分装备已通过陆路通道进入核心区，并开展深入救援工作。国务院国资委2日17时通报，各中央企业救援力量昼夜奋战协同联动，道路抢通、险情监"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260902/d9fd379956f14ee9a1f126b60f2b931e/c.html",
+          "title": "“新疆两史”发布：立足中华民族共同体讲好新疆故事",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "9月2日，由新疆维吾尔自治区党委宣传部主办的《中国新疆地区历史》《中国新疆地区宗教史》新书发布仪式在北京举行。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260903/e7d40c687c104b6c8510b53df76ed012/c.html",
+          "title": "进一步畅通实体经济的“筋络”——“十五五”开局之年推进物流网建设观察",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "新华社北京9月2日电题：进一步畅通实体经济的“筋络”——“十五五”开局之年推进物流网建设观察"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260903/2b9e7ace47684d2296586219e0d6c201/c.html",
+          "title": "洋楼焕新记——城市更新里的“百年重生”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "天津五大道河北路267号，坐落着近代外交家顾维钧的旧居。这栋百年洋楼曾长期作为办公场所使用。2025年，顾维钧旧居的开发运维工作才重新开启。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260903/12a9a1f985a74d2ba5b158ec2ff517e0/c.html",
+          "title": "开学“第一餐”，校长坐到我对面——“五张清单”这样管好校园食堂",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "新华社昆明9月2日电（记者庄北宁）9月1日，新学期首日，云南省保山市昌宁县各中小学校校长走入食堂，与学生们同排队、同缴费、同吃开学“第一餐”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260901/46965e5525d04d468f8eb7b9df7c9ddc/c.html",
+          "title": "中共中央宣传部等印发《关于组织开展2026年“全民国防教育月”活动的通知》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "新华社北京9月1日电近日，中共中央宣传部等12部门联合印发通知，要求在9月集中组织开展“全民国防教育月”活动。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260901/f21510c6d4944fabaeedc9cbd409de8b/c.html",
+          "title": "新华鲜报丨一树扎根沙地 “赛考斯”的惜别与守望",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "“故事永远不会结束。”9月1日，北京首都国际机场。返程前，美国友人“赛考斯”（本名罗纳德·萨科尔斯基）与治沙劳模殷玉珍紧紧拥抱，流下难舍的泪水。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260901/22b0b48984be4bbab12161ee84dba5a8/c.html",
+          "title": "三项婴童用品国家标准实施 助力儿童健康成长",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": "新华社北京9月1日电《婴童用品如厕器具及其附件通用技术要求》（GB/T45273—2025）、《婴童用品感统训练产品通用技术要求》（GB/T45274—2025）、《婴童用品游泳运动配套用品通用技术要求》（GB/T45267—2025）3项"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260901/a8c69b5c29484ec8acea356be4332593/c.html",
+          "title": "解放军和武警部队官兵持续奋战西藏吉隆抢险救援一线",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260902/55c73c6ed2954781b152599026d0973e/c.html",
+          "title": "技术赋能、政策护航、良性竞争——推动AI微短剧品质化发展",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260901/770fa81120884238b44bb4d50cecb5e0/c.html",
+          "title": "新华鲜报丨电影暑期档收官 票房超124亿元",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席推动上海合作组织发展金句",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40789755.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "为推动构建上海合作组织命运共同体注入新动力",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789021.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "上合组织二十五周年比什凯克宣言",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790594.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "推动上合组织发展的中国行动成果清单",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790592.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "上合组织成员国元首理事会关于加强对受紧急情况影响的国家援助响应能力的声明",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790593.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "关于加强核安全与核安保多边伙伴关系的宣言",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790595.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席\"上海合作组织+\"会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40790517.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平在\"上海合作组织+\"会议上的讲话(全文)",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40790522.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40790533.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平在埃及媒体发表署名文章",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789769.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "埃及总统塞西在人民日报发表署名文章",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40789748.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席在署名文章中这样阐述发展中埃关系",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c461001-40790580.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "把中埃友好的接力棒一代代传下去",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c461001-40790548.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "彭丽媛出席上海合作组织峰会配偶集体活动",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40790494.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "和音:共同推动中吉命运共同体建设走深走实",
+          "url": "http://opinion.people.com.cn/n1/2026/0901/c461529-40790551.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "国际观澜|构建埃中关系的\"共同叙事\"",
+          "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789751.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平圆满结束对埃及的国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791344.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "习近平同埃及总统塞西会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791342.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "发展中埃关系，习近平主席强调“不忘初心、继往开来”",
+          "url": "http://politics.people.com.cn/n1/2026/0902/c461001-40791298.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "携手各国发展振兴，改革完善全球治理",
+          "url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791946.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
+          "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+          "url": "https://www.gov.cn/zhengce/202608/content_7078711.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改《住房公积金管理条例》的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改和废止部分行政法规的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-04",
+          "time": "07:13",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "items": [
