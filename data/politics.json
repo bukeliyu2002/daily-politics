@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-10T07:13:15+08:00",
+  "updatedAt": "2026-09-11T07:12:17+08:00",
   "days": [
+    {
+      "date": "2026-09-11",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260908/09d874256d0a4d88bb59a6e8f5eca660/c.html",
+          "title": "中国天眼构建世界最大中性氢星系样本库",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "新华社北京9月8日电（记者胡喆）记者从中国科学院国家天文台获悉，由国家天文台姜鹏团队牵头的中国天眼FAST中性氢巡天项目（FASHI），发布第二期数据集FASHIDR2，构建起当今世界规模最大的中性氢星系样本库，相关成果9月8日发表在学术期"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/cec7423d6fe84e9ab3bd5dc68768869f/c.html",
+          "title": "完善乡村振兴投入机制相关实施方案印发——如何引导更多资金流向“三农”领域",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "近日，农业农村部、中央农办、国家发展改革委、财政部、中国人民银行、金融监管总局联合印发《坚持农业农村优先发展完善乡村振兴投入机制实施方案》（以下简称“方案”）。如何引导更多资金流向“三农”领域，并确保投稳、投准？记者采访了农业农村部有关负责"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/50f63a50efab4d1dae752af5ad7ffec1/c.html",
+          "title": "秋播以来全国气象条件总体有利 各地应抓住有利农时抢收抢晒",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "正值秋收秋种关键期，记者从中央气象台获悉：自今年秋收作物播种以来，全国气象条件总体有利，高温干旱影响较去年明显减轻。预计9月中下旬，我国大部秋粮将进入成熟和集中收获阶段。农业气象专家提醒，各地应密切关注天气形势，抓住有利农时窗口抢收抢晒，全"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/d28cbfb992cf467ab8bfad70643ebd93/c.html",
+          "title": "第七批国家组织医用耗材集中带量采购在天津开标",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "9月10日，第七批国家组织医用耗材集中带量采购现场。（国家医保局供图）"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/6d490f98b01349aaba5d91c209d461c1/c.html",
+          "title": "大先生——第42个教师节献礼微视频",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "记者：李怡汐、刘润芝、李帅、郝杰、魏梦佳、马晓冬、赵旭、夏子麟"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/cb5de607cdbc4b0798b472d80bef933c/c.html",
+          "title": "中央宣传部、教育部联合发布“最美教师”先进事迹",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "新华社北京9月10日电为深入学习贯彻习近平总书记关于教育的重要论述，大力弘扬教育家精神，营造尊师重教社会风尚，加快建设教育强国，办好人民满意的教育，在第42个教师节到来之际，中央宣传部、教育部向全社会发布“最美教师”先进事迹。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/7ceced2f51a640c7a48b37b48e6c4e54/c.html",
+          "title": "赓续长征精神 奋进复兴征程｜红土地上的新长征",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "2026年是中国工农红军长征胜利90周年。90多年前，中共中央、中革军委率领中央红军主力等8.6万余人集结江西于都，踏上一场震撼世界、彪炳史册的伟大远征。从血与火中走来，在攻坚克难中奋进，昔日长征出发地，已是气象万千。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/7c09e2b5a8024317bc11099811f18fd6/c.html",
+          "title": "为开好局起好步广泛凝聚力量——国新办发布会介绍“十五五”发展社会主义民主有关情况",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "9月9日，国务院新闻办公室在北京举行“开局起步‘十五五’”系列主题新闻发布会，中央统战部副部长马利怀，中央社会工作部新闻发言人、副部长赵世堂，全国人大常委会新闻发言人、副秘书长、办公厅研究室主任宋锐，全国政协副秘书长、办公厅新闻发言人胡衡庐"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260910/e0ebf3178e4846fdb45d4163a1f315b8/c.html",
+          "title": "特写：世界政党媒体代表走进北京人形机器人创新中心",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "新华社北京9月9日电特写：世界政党媒体代表走进北京人形机器人创新中心"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260909/df97713833fc4ba0a2ed9669b450a34c/c.html",
+          "title": "活力中国调研行｜会“变身”的化肥",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "这里的化肥会“变身”，一粒尿素遇水瞬间便可生成一层膜。这是河南心连心化学工业集团股份有限公司与中国科学院联合研发的水触膜控失肥，尿素遇水成膜，破解传统肥料养分流失带来的环境难题。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260909/9b5aee9d16534a268f0175275f97fa96/c.html",
+          "title": "岁月磨不去记忆！99 岁老人哼唱6岁学的红军歌谣",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "9月8日，新华社记者参加“赓续长征精神奋进复兴征程——记者再走长征路”主题采访，来到位于福建省三明市宁化县曹坊镇的下曹村。红十二军、红一军团、红九军团、北上抗日先遣队等红军部队曾在此开展革命活动，红九军团后方机关从这里开启伟大远征。村里99"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260909/a0a4bdb2209c4218ae12e4374e087a1b/c.html",
+          "title": "赓续长征精神 奋进复兴征程丨8.6万红军如何渡过没有桥的于都河？",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": "江西于都河是红军万里长征渡过的第一条河，被称为“长征第一渡”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260909/298a0d46f989467ab391f878959d55cb/c.html",
+          "title": "书香亦可潮：国家图书馆探索典籍活化新表达",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260909/4b34733282f94d4f90ef5d5bf4935051/c.html",
+          "title": "时代人物丨蒋妈妈，长大后我要成为你",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260909/a63020a065d943f296e5675673f9446e/c.html",
+          "title": "世界最大直径高铁盾构机完成二次始发",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席推动上海合作组织发展金句",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40789755.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "为推动构建上海合作组织命运共同体注入新动力",
+          "url": "http://world.people.com.cn/n1/2026/0831/c1002-40789021.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "上合组织二十五周年比什凯克宣言",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790594.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "推动上合组织发展的中国行动成果清单",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790592.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "上合组织成员国元首理事会关于加强对受紧急情况影响的国家援助响应能力的声明",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790593.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "关于加强核安全与核安保多边伙伴关系的宣言",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40790595.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席\"上海合作组织+\"会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40790517.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平在\"上海合作组织+\"会议上的讲话(全文)",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40790522.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平圆满结束出席2026年上海合作组织峰会和对吉尔吉斯斯坦的国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40790533.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平在埃及媒体发表署名文章",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1024-40789769.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "埃及总统塞西在人民日报发表署名文章",
+          "url": "https://world.people.com.cn/n1/2026/0901/c1002-40789748.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席在署名文章中这样阐述发展中埃关系",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c461001-40790580.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "把中埃友好的接力棒一代代传下去",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c461001-40790548.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "彭丽媛出席上海合作组织峰会配偶集体活动",
+          "url": "http://politics.people.com.cn/n1/2026/0901/c1001-40790494.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "和音:共同推动中吉命运共同体建设走深走实",
+          "url": "http://opinion.people.com.cn/n1/2026/0901/c461529-40790551.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "国际观澜|构建埃中关系的\"共同叙事\"",
+          "url": "http://world.people.com.cn/n1/2026/0901/c1002-40789751.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平圆满结束对埃及的国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791344.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平同埃及总统塞西会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0903/c1024-40791342.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "发展中埃关系，习近平主席强调“不忘初心、继往开来”",
+          "url": "http://politics.people.com.cn/n1/2026/0902/c461001-40791298.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "携手各国发展振兴，改革完善全球治理",
+          "url": "http://politics.people.com.cn/n1/2026/0903/c1001-40791946.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "电力安全事故应急处置和调查处理条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080188.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
+          "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
+          "url": "https://www.gov.cn/zhengce/202608/content_7078711.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改《住房公积金管理条例》的决定",
+          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-11",
+          "time": "07:12",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-10",
       "items": [
