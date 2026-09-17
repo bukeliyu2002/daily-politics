@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-16T09:11:14+08:00",
+  "updatedAt": "2026-09-17T09:12:25+08:00",
   "days": [
+    {
+      "date": "2026-09-17",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260916/8f1dc48761df4c51b4c4ef77ec225906/c.html",
+          "title": "文化和旅游部印发《文化和旅游发展“十五五”规划》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社北京9月16日电文化和旅游部近日印发《文化和旅游发展“十五五”规划》。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260916/051113bc4a3d4562a0ab3f57b8dccb02/c.html",
+          "title": "夏粮旺季收购基本结束 全国累计收购小麦1亿吨",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社北京9月16日电（记者古一平）记者16日从国家粮食和物资储备局获悉，目前，夏粮旺季收购接近尾声，秋粮收购各项准备工作已基本就绪。全国累计收购小麦1亿吨、早籼稻1200万吨，进度略快于上年。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260917/929ee957c17241e0b67ab0788096d4f4/c.html",
+          "title": "空客在华第二条总装线交付首架飞机 中国供应链支撑产能扩容",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "空中客车公司在华第二条总装线完成总装的首架飞机16日在天津顺利交付，这架飞机机型为A320neo，由中国东方航空接收运营。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260916/5234f5b980d545ff8d475273b99e6c67/c.html",
+          "title": "新华社权威快报丨平陆运河建成通航",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社权威快报丨平陆运河建成通航-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260916/e0955995950d4d8a967fcb652ccbd5b1/c.html",
+          "title": "首批国家基本医保医疗服务项目目录制定方案发布",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社北京9月16日电（记者彭韵佳）国家医保局9月16日发布《国家基本医疗保险医疗服务项目目录（第一批）制定工作方案》，首批先制定心血管系统、呼吸系统、眼科、妇科、放射治疗、麻醉、护理、临床量表评估、口腔种植、辅助生殖、产科、放射检查和康复"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/55059f5f97a9472d86d5857db79c3997/c.html",
+          "title": "“地球的红飘带——文学中的红军长征”展览在京开幕",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社北京9月15日电由中国作协主办的“地球的红飘带——文学中的红军长征”展览，9月15日在中国现代文学馆开幕。展览共分“万水千山只等闲”“革命理想高于天”“世界是怎样知道长征的”“风景这边独好”四个单元。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260916/859fa4f464ca44378a8518e48d31491d/c.html",
+          "title": "北方大部晴朗在线温差较大 四川至湖北降雨频繁体感湿凉",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "未来三天（9月16日至18日），北方大部以晴朗天气居多，白天热意短暂回归，但温差较大，早晚凉意加重。而四川至湖北一带降雨连连，在雨水的打压下，气温较常年同期偏低，体感湿凉，江南、华南等地气温则以偏高为主。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/d712ee7b3c7842c29b4f810a97b48ee7/c.html",
+          "title": "2026长江文明论坛聚焦世界大河文明交流互鉴",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社重庆9月15日电（记者周文冲）2026长江文明论坛9月15日在重庆开幕。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/198e5b7f5bf54fcdaf2eab9d5b3c9c5e/c.html",
+          "title": "我国将加强旅游产业“空间供给”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社北京9月15日电（记者王立彬）确保架空步道、栈道等小型零星旅游用地供应，探索土地、森林等自然资源资产组合供应，我国将加强旅游业“空间供给”，促进旅游业高质量发展。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/cd1edd3172b540f490215a4d81463233/c.html",
+          "title": "全国碳市场进入快速发展新阶段",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社武汉9月15日电（记者田中全、高敬）记者从15日在湖北武汉举行的2026年中国碳市场大会上获悉，截至8月底，全国碳排放权交易市场累计成交量9.61亿吨，成交额656.99亿元。自开市以来，全国碳排放权交易市场制度体系基本建成，市场活力"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/d735e4edec4948a081dd0f11e553754a/c.html",
+          "title": "2026年民族团结进步宣传周将于9月21日至27日举办",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社北京9月15日电（记者唐健辉、范思翔）记者从9月15日在京举行的2026年民族团结进步宣传周活动媒体通气会上获悉，《中华人民共和国民族团结进步促进法》施行后的首个民族团结进步宣传周将于9月21日至27日举办。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/dc4a486872cb46cd85e92c892db7dbce/c.html",
+          "title": "2026年中国经济社会论坛在杭州举行",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": "新华社杭州9月15日电（记者段菁菁）2026年中国经济社会论坛15日在杭州举行，85位中外嘉宾围绕“完善全球治理体系，迈向人类命运共同体”深入交流。全国政协副主席兼秘书长、中国经济社会理事会主席王东峰出席并发表主旨讲话。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/3c608dbfc24b43008bb3f5537130d3d0/c.html",
+          "title": "平陆运河航区正式公布",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/0c9a98b73c4e43b294f01c1803fbf511/c.html",
+          "title": "新华社消息丨电子信息制造业发展“十五五”规划发布",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260915/4ca21639d4894e06aaba070d0552478e/c.html",
+          "title": "两部门对海南启动国家自然灾害救助四级应急响应",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "和音丨共同书写全球南方团结自强新篇章",
+          "url": "http://opinion.people.com.cn/n1/2026/0914/c461529-40797890.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "开创“大金砖合作”高质量发展新局面",
+          "url": "http://opinion.people.com.cn/n1/2026/0911/c461529-40796447.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "为应对时代挑战发挥更大金砖作用",
+          "url": "http://world.people.com.cn/n1/2025/0910/c1002-40560419.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "携手推动“大金砖合作”高质量发展",
+          "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797304.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "勇做时代先锋 展现金砖担当",
+          "url": "http://opinion.people.com.cn/n1/2026/0913/c461529-40797640.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "金砖国家媒体人、专家：期待2027金砖“中国年”",
+          "url": "http://world.people.com.cn/n1/2026/0914/c1002-40798401.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束出席金砖国家领导人第十八次会晤",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c1024-40797887.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "为全球南方聚力 启金砖合作新程",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40797888.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c1024-40797886.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0913/c1024-40797627.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "从喀山、天津到新德里,习主席都提到中印最大\"公约数\"",
+          "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797821.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "开启金砖合作第三个\"金色十年\",习近平阐述中国主张",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40798607.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "金砖国家领导人第十八次会晤新德里宣言(全文)",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c1001-40798629.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "金砖国家致力于做推动文明互鉴的先锋",
+          "url": "http://world.people.com.cn/n1/2026/0914/c1002-40797921.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平致信祝贺吉林大学建校80周年",
+          "url": "http://politics.people.com.cn/n1/2026/0917/c1024-40800064.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "激励广大青年学生和教育工作者矢志拼搏奋斗",
+          "url": "http://politics.people.com.cn/n1/2026/0917/c461001-40800058.html",
+          "source": "人民网",
+          "category": "民生",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "凝聚各方合作共识 促进地区共同安全",
+          "url": "http://world.people.com.cn/n1/2026/0917/c1002-40800079.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "丁薛祥出席平陆运河通航仪式",
+          "url": "http://politics.people.com.cn/n1/2026/0917/c1024-40800065.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "坚持用严明的纪律管全党治全党",
+          "url": "http://opinion.people.com.cn/n1/2026/0917/c461530-40800103.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "人民论坛|\"算账\"的智慧",
+          "url": "http://opinion.people.com.cn/n1/2026/0917/c461529-40800092.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7081017.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "市场监督管理所条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于加强中小企业回款难问题治理有关工作的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080627.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "电力安全事故应急处置和调查处理条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080188.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        },
+        {
+          "title": "中办国办印发《党政领导干部生态环境损害责任追究办法》",
+          "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-17",
+          "time": "09:12",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-16",
       "items": [
