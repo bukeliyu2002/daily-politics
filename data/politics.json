@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-20T08:50:59+08:00",
+  "updatedAt": "2026-09-21T08:56:22+08:00",
   "days": [
+    {
+      "date": "2026-09-21",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260920/c3211639d9f5452d80f7c865d458084a/c.html",
+          "title": "市场监管总局：我国将建设国家质检中心不少于30家",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "新华社北京9月20日电（记者戴小河、赵怡宁）国家市场监督管理总局副局长束为在20日国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，“十五五”时期，我国将建设国家质检中心不少于30家、检验检测公共服务平台不少于300个。市场监管总"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260920/70b536870c56449ca60eaaf14cb7f880/c.html",
+          "title": "权威数读·观中国【9月13日-9月19日】",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "134.2公里，9月16日备受瞩目的世纪工程平陆运河建成通航；今年前8个月二手房交易占比已达到52%，我国房地产进入存量时代；前8个月，全国上线微短剧43万部，其中AI剧超九成；8月份，我国工业机器人产量同比增长34.6%，新动能对规模以上"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260920/e6f4327f02de432a9355456acb40bd66/c.html",
+          "title": "中央网信办通报30款App个人信息收集使用问题",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "根据中央网信办、工业和信息化部、公安部联合发布的《关于开展2026年个人信息保护系列专项行动的公告》，依据《网络安全法》《个人信息保护法》《网络数据安全管理条例》《App违法违规收集使用个人信息行为认定方法》等法律法规和有关规定，中央网信办"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260920/a3f75681aff247c39e8f4af7a14219a7/c.html",
+          "title": "今天起 装修、交物业费都能用这笔钱了",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "今天起，新修订的《住房公积金管理条例》（以下简称《条例》）正式施行。这是该条例继2002年、2019年之后的又一次系统性重大调整。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/940bfe6a7e0f4f71894c8eaeb63acfb2/c.html",
+          "title": "中国空间站“太空厨房”全面升级 航天员20分钟吃上热食",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "新华社天津9月19日电（李国利、占康）“太空饮水机”“太空微波炉”“太空烤箱”……依托多套设备协同工作，中国空间站“太空厨房”保障能力全面升级，出差太空的航天员乘组可以在20分钟内吃上热食。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/db5df2d13e944e8394090d71acf0fd3a/c.html",
+          "title": "第48届世界技能大赛中国代表团在上海完成集结",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "新华社上海9月19日电（记者张晓洁、周蕊）记者从人力资源社会保障部获悉，第48届世界技能大赛中国代表团已于9月19日在上海完成集结，将奋力实现竞技成绩与精神文明双丰收。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/b89ac46784134edeae85b50a8846d544/c.html",
+          "title": "多部门将重拳整治生态环境监测机构弄虚作假问题",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "新华社北京9月19日电（记者高敬）记者19日从生态环境部获悉，生态环境部等部门将形成合力，重拳整治生态环境监测机构弄虚作假问题。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/456c45fe53d64c72ac8aec1009eb8ae4/c.html",
+          "title": "九旬院士汪品先主动请缨开讲“地球春秋”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "9月18日晚，同济大学逸夫楼一楼报告厅座无虚席。年已九旬的汪品先院士主动请缨，在同济高等讲堂开设“地球春秋”系列讲座。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/a84b82e17a2c48b49a8c6be93ae265c4/c.html",
+          "title": "活力中国调研行丨科技兴农绘就荆楚丰收画卷",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "近日，记者跟随“活力中国调研行”采访团走访了解到，湖北正持续推动农业科技创新与产业创新深度融合，形成多项核心技术，培育出一批特色优质农产品，农业产业提质增效成果丰硕。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/2c519ba7bab84f59af199cbd6a2d6b88/c.html",
+          "title": "让更多家庭托得上、托得好——全国托育服务宣传月看点扫描",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "新华社北京9月19日电题：让更多家庭托得上、托得好——全国托育服务宣传月看点扫描"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260919/5bfe9c2e0b4f4bf5890a1c7f949aa8bb/c.html",
+          "title": "整治恶意炒作涉企信息 国家网信办从严处置一批违法违规账号",
+          "source": "新华网",
+          "category": "法治",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "新华社北京9月19日电记者9月19日获悉，近期，国家网信办组织开展“清朗·优化营商网络环境整治恶意炒作涉企信息”专项行动，对恶意诋毁抹黑企业、集纳炒作涉企负面信息、借监督之名牟取非法利益等问题进行集中整治。同时，有针对性治理企业“内卷式”竞"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260918/e1837c6e48fc4f668c247292522eb7ca/c.html",
+          "title": "勿忘九一八撞钟鸣警仪式在沈阳举行",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": "今年是九一八事变爆发95周年。9月18日上午，社会各界代表在辽宁沈阳“九·一八”历史博物馆残历碑前的广场上隆重集会，共同参加勿忘九一八撞钟鸣警仪式。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260918/821f5a894e41451a9f87193e4e2b5d0a/c.html",
+          "title": "明确处置范围 中央网信办加强涉企侵权信息管理",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260918/78c04d3750264fe69af0a5f5e6e49bd8/c.html",
+          "title": "《医药工业发展“十五五”规划》发布",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260918/17f7bd60fd6b42b89efcfd6ac1b4333f/c.html",
+          "title": "斑驳旧物，铭刻90多年前的不屈抗争",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "和音丨共同书写全球南方团结自强新篇章",
+          "url": "http://opinion.people.com.cn/n1/2026/0914/c461529-40797890.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "开创“大金砖合作”高质量发展新局面",
+          "url": "http://opinion.people.com.cn/n1/2026/0911/c461529-40796447.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "为应对时代挑战发挥更大金砖作用",
+          "url": "http://world.people.com.cn/n1/2025/0910/c1002-40560419.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "携手推动“大金砖合作”高质量发展",
+          "url": "http://world.people.com.cn/n1/2026/0912/c1002-40797304.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "勇做时代先锋 展现金砖担当",
+          "url": "http://opinion.people.com.cn/n1/2026/0913/c461529-40797640.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "金砖国家媒体人、专家：期待2027金砖“中国年”",
+          "url": "http://world.people.com.cn/n1/2026/0914/c1002-40798401.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束出席金砖国家领导人第十八次会晤",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c1024-40797887.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "为全球南方聚力 启金砖合作新程",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40797888.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c1024-40797886.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席金砖国家领导人第十八次会晤第一阶段会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0913/c1024-40797627.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "从喀山、天津到新德里,习主席都提到中印最大\"公约数\"",
+          "url": "http://politics.people.com.cn/n1/2026/0913/c461001-40797821.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "开启金砖合作第三个\"金色十年\",习近平阐述中国主张",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c461001-40798607.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "金砖国家领导人第十八次会晤新德里宣言(全文)",
+          "url": "http://politics.people.com.cn/n1/2026/0914/c1001-40798629.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "金砖国家致力于做推动文明互鉴的先锋",
+          "url": "http://world.people.com.cn/n1/2026/0914/c1002-40797921.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席引领全球发展倡议造福世界",
+          "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802338.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "理念引领效应持续释放 务实合作成果接连落地",
+          "url": "http://world.people.com.cn/n1/2026/0921/c1002-40802325.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "“推动落实全球发展倡议的成功典范”",
+          "url": "https://world.people.com.cn/n1/2026/0531/c1002-40730737.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "赵乐际同澳大利亚联邦议会众议长迪克会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0921/c1024-40802264.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "铸牢共同体 中华一家亲|中华儿女咱心连着心",
+          "url": "http://politics.people.com.cn/n1/2026/0921/c461001-40802261.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "寰宇平|汇聚共同发展力量 照亮人类美好未来",
+          "url": "http://opinion.people.com.cn/n1/2026/0921/c461529-40802267.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7081587.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081356.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7081017.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        },
+        {
+          "title": "市场监督管理所条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-21",
+          "time": "08:56",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-20",
       "items": [
