@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-22T09:31:13+08:00",
+  "updatedAt": "2026-09-23T09:20:38+08:00",
   "days": [
+    {
+      "date": "2026-09-23",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260922/9fadd53f90ca4544b6f79c08adedb7a0/c.html",
+          "title": "丰收的中国 升腾的梦想",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "丰收的中国 升腾的梦想-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/86773969d683451e95fa998f4a2db6ae/c.html",
+          "title": "新华鲜报｜文脉落京华 全国文化中心建设年度大事揭晓",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电题：文脉落京华全国文化中心建设年度大事揭晓"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/d9faf0653e1240d19c0ed6a3d93b3343/c.html",
+          "title": "新华解码｜“十五五”，轻纺产业如何增质效、惠民生",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电题：“十五五”，轻纺产业如何增质效、惠民生"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/02f6e01ba91d4d96b107a5ec6e6aca81/c.html",
+          "title": "民族复兴历史进程中的巍峨丰碑——纪念中国工农红军长征胜利90周年主题展览速写",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电题：民族复兴历史进程中的巍峨丰碑——纪念中国工农红军长征胜利90周年主题展览速写"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/d0670d5503d540cab76ff564904bd461/c.html",
+          "title": "第一观察丨“十五五”首个丰收节，总书记指引“三农”启新程",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "“扎实推进乡村全面振兴”“努力让广大农民生活更加幸福美好”……9月22日，“十五五”首个“中国农民丰收节”到来之际，习近平总书记向全国广大农民和工作在“三农”战线上的同志们致以节日祝贺和诚挚问候。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/bd99f296886b406e8c2c44d2912fdd3d/c.html",
+          "title": "2026年全国食品安全宣传周启动",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电（记者戴小河）国务院食安办联合中央精神文明建设办公室、农业农村部、市场监管总局等27个部门和单位，22日在北京启动2026年全国食品安全宣传周活动。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/77a2104e175d4cec91f6342a2ff0c0e0/c.html",
+          "title": "赓续长征精神 奋进复兴征程丨特写：“现在你们不孤独了”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "广西全州米花山的山脚下，秋风拂过红军烈士墓的墓碑和碑前的鲜花，肃穆清幽。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/a2b9412a275b4823ba52dbadd498ef4c/c.html",
+          "title": "守红线、保发展、惠民生——国新办发布会聚焦“十五五”时期自然资源保护利用",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电题：守红线、保发展、惠民生——国新办发布会聚焦“十五五”时期自然资源保护利用"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/91ae75de39734b32b43b8c1a9ae87aa1/c.html",
+          "title": "生态环境部：推动固体废物和新污染物治理取得新成效",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电题：生态环境部：推动固体废物和新污染物治理取得新成效"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/64b4dfa598074ed9963419d5c23ee651/c.html",
+          "title": "自然资源部：推动发展动力从“土地财政”转向“时空经济”",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电（记者王立彬、黄垚）自然资源部副部长庄少勤22日在此间表示，随着城乡发展进入存量阶段，国土空间规划要开辟存量增长新空间，推动发展动力从原来的“土地财政”转向高质量的“时空经济”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/3d562a314722432a9fe8f69f88ccd76e/c.html",
+          "title": "公安部交管局提示：中秋国庆假期出行安全第一",
+          "source": "新华网",
+          "category": "法治",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月22日电（记者孙鹏程）中秋国庆双节将至，旅游探亲出行频繁，部分地区降雨团雾易发，道路交通安全风险交织。公安部交通管理局9月22日提示，假期出行安全第一，要自觉遵规守法，平安文明出行。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/36a8b0760c6d487ca7e45a52990c55e7/c.html",
+          "title": "2026年全国少数民族参观团活动启动",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": "新华社北京9月21日电（记者唐健辉）记者9月21日从国家民委获悉，由国家民委组织的2026年全国少数民族参观团活动在京启动。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260921/edd77a7b14b14af382a256361c2f6ce3/c.html",
+          "title": "活力中国调研行丨一粒良种激活产业发展新动能",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260921/6ff3bfae9b5046afa5728a7c2ffbe76b/c.html",
+          "title": "17个试点县2939个建制村实现“快递进村”邮政兜底",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260921/0dc3ff66bbc048aaadeb6343f4de24f2/c.html",
+          "title": "我国发放首批数据产权“身份证”",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "当地时间9月20日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在美国纽约举行经贸磋商",
+          "url": "http://politics.people.com.cn/n1/2026/0921/c1001-40802764.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "艾奥瓦州\"老朋友\"热烈欢迎习近平主席访美",
+          "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803779.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "钟声|相向而行,走好大国正确相处之道",
+          "url": "http://opinion.people.com.cn/n1/2026/0923/c461529-40803791.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "国际社会热切期待习近平主席对美国进行国事访问",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40803784.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "习近平主席复信美国十所高校青年学生引发热烈反响",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40803785.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "\"以稳定性和确定性造福中美两国和世界\"",
+          "url": "http://politics.people.com.cn/n1/2026/0922/c461001-40803016.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "大使随笔|推动中美建设性战略稳定关系落地落实",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40803786.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "国纪平:锚定新定位,推动中美建设性战略稳定关系行稳致远",
+          "url": "http://opinion.people.com.cn/n1/2026/0922/c461529-40803078.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "让经贸继续成为中美关系的压舱石和推进器",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40803806.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "国际论坛|美中经贸关系稳定是重要国际公共产品",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40803807.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "相知无远近——中美人文交流跨越山海美美与共",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40804073.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "万里尚为邻——中美民间友好的六个印记",
+          "url": "https://world.people.com.cn/n1/2026/0923/c1002-40804074.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "“把我们的农民扶一把”，读懂总书记的“三农”瞩望",
+          "url": "http://politics.people.com.cn/n1/2026/0923/c461001-40803998.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "今日谈丨将大地厚赠化为农民美好生活",
+          "url": "http://opinion.people.com.cn/n1/2026/0923/c461529-40803782.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "中国农民“云连线”五大洲农友",
+          "url": "http://world.people.com.cn/n1/2026/0923/c1002-40803858.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "习近平向第48届世界技能大赛致贺信",
+          "url": "http://politics.people.com.cn/n1/2026/0923/c1024-40803776.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "蔡奇出席纪念中国工农红军长征胜利90周年主题展览开幕式",
+          "url": "http://politics.people.com.cn/n1/2026/0923/c1024-40803850.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "丁薛祥会见哈萨克斯坦第一副总理纳利巴耶夫",
+          "url": "http://politics.people.com.cn/n1/2026/0923/c1024-40803777.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "韩正会见柬埔寨国王西哈莫尼和太后莫尼列",
+          "url": "http://politics.people.com.cn/n1/2026/0923/c1001-40803783.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "以农业科技创新支撑农业强国建设",
+          "url": "http://opinion.people.com.cn/n1/2026/0923/c461530-40803821.html",
+          "source": "人民网",
+          "category": "科技",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7081587.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081356.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅 中央军委办公厅印发《退役军人服务和保障“十五五”规划》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7081017.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        },
+        {
+          "title": "市场监督管理所条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7080735.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-23",
+          "time": "09:20",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-22",
       "items": [
