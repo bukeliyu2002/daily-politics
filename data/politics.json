@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-24T09:15:26+08:00",
+  "updatedAt": "2026-09-25T09:16:57+08:00",
   "days": [
+    {
+      "date": "2026-09-25",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260924/a512e6e3ab5b44f5ad0651c0d1b37646/c.html",
+          "title": "我国将开展第二次全国非遗普查 建立非遗资源总目录",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月24日电（记者周玮、徐壮）文化和旅游部副部长王建华9月24日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，“十五五”期间，将开展第二次全国非遗普查，全面摸清家底，建立非遗资源总目录。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260924/b47c33aefcc1428caa3a188826a573a2/c.html",
+          "title": "我国将培育更多旅游名县和“宝藏小城”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月24日电（记者周玮、徐壮）文化和旅游部资源开发司司长满宏卫9月24日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，将持续完善旅游业空间布局。聚焦城乡协同发展，推出32个旅游枢纽城市、33个重点旅游城市以及23个"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260924/8589cb91c25e427b806c12b6279d6785/c.html",
+          "title": "“十四五”全国文化产业营业收入年均增长8.4%",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月24日电（记者周玮、徐壮）文化和旅游部副部长王建华9月24日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，2025年，全国文化产业实现营业收入20.8万亿元，“十四五”期间年均增长8.4%；国内出游65.2亿人"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260924/efd25e13ad7d4083a6ac8a0682356b78/c.html",
+          "title": "满屏的丰收，@你来领取",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "满屏的丰收，@你来领取-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260924/832e48a4ab924b39b2c8f444c198cb7c/c.html",
+          "title": "丰收节里，供销力量助力农户增产又增收",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月23日电题：丰收节里，供销力量助力农户增产又增收"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/53272bcd6b7d414faee867a2368d654c/c.html",
+          "title": "我国成功发射卫星互联网低轨26组卫星",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社海南文昌9月23日电（记者陈凯姿）23日21时32分，我国在海南商业航天发射场使用长征八号甲运载火箭，成功将卫星互联网低轨26组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/47ca7dc794f445b09235d4741be5f0fa/c.html",
+          "title": "2025年全国共查办各类价格违法案件4.1万件",
+          "source": "新华网",
+          "category": "法治",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月23日电（记者赵怡宁）记者23日了解到，国家市场监督管理总局近日发布《中国价格监督检查和反不正当竞争执法年度报告（2025）》，报告显示，2025年，全国市场监管系统强化价格监管执法，全年共查办各类价格违法案件4.1万件，罚没"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/3ccc1b55503840c0bc6256adf53a1c8d/c.html",
+          "title": "工业和信息化部：加快信息通信网络和行业智能化升级",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月23日电（记者周圆）工业和信息化部副部长余晓晖23日在2026年中国国际信息通信展览会开幕式上说，要积极推进人工智能与信息通信融合创新，超前研判和积极应对人工智能对信息通信网络体系的变革性影响，加快信息通信网络和行业的智能化升"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/296a0172d52f43acad46aef9bbc07134/c.html",
+          "title": "民政部：我国养老服务保障水平持续提升",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "9月23日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期推进民政事业高质量发展有关情况，并答记者问。民政部部长李常官介绍，我国养老服务保障水平持续提升，基本养老服务制度全面建立，5300多万老年人享受老年"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/ff8eb910d93942ad96339135f03d7ecd/c.html",
+          "title": "公安机关打掉一跨国民族资产解冻类诈骗团伙",
+          "source": "新华网",
+          "category": "法治",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月23日电（记者李明辉）记者9月23日从公安部获悉，今年7月以来，在公安部指挥下，吉林公安机关打掉一个跨国民族资产解冻类诈骗团伙，在境内抓获犯罪嫌疑人101名。同时，与老挝、新加坡、柬埔寨警方开展国际执法合作，3国警方共抓获犯罪"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/7b122c8cca62461d8f90687340d3c877/c.html",
+          "title": "国家卫生健康委：“急速暴瘦”“不瘦退款”不可信",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月23日电（记者李恒）体重不是越轻越好。健康体重管理应以合理膳食、适量运动和健康生活方式为基础，不宜盲目追求短期快速减重。目前超过95%的三级公立综合医院设置了健康体重管理门诊，受体重问题困扰严重的居民可前往咨询，接受指导。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/86773969d683451e95fa998f4a2db6ae/c.html",
+          "title": "新华鲜报｜文脉落京华 全国文化中心建设年度大事揭晓",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": "新华社北京9月22日电题：文脉落京华全国文化中心建设年度大事揭晓"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260923/d9faf0653e1240d19c0ed6a3d93b3343/c.html",
+          "title": "新华解码｜“十五五”，轻纺产业如何增质效、惠民生",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/02f6e01ba91d4d96b107a5ec6e6aca81/c.html",
+          "title": "民族复兴历史进程中的巍峨丰碑——纪念中国工农红军长征胜利90周年主题展览速写",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260922/d0670d5503d540cab76ff564904bd461/c.html",
+          "title": "第一观察丨“十五五”首个丰收节，总书记指引“三农”启新程",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805379.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平：把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805345.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平：美方应慎重处理台湾问题",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805347.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平：不以善小而不为，不以恶小而为之",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805349.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805418.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平在特朗普举行的欢迎宴会上的祝酒辞",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805497.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平出席特朗普在白宫举行的欢迎仪式",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805380.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平在白宫欢迎仪式上的致辞(全文)",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805382.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平抵达华盛顿对美国进行国事访问",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805381.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "习近平抵达美国安德鲁斯空军基地发表书面讲话",
+          "url": "http://politics.people.com.cn/n1/2026/0924/c1024-40804925.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "一见|这份倡议,关乎中美关系的未来",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c461001-40805384.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "引领中美关系这艘大船行稳致远",
+          "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805388.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "彭丽媛同美国总统特朗普夫人梅拉尼娅参观国立亚洲艺术博物馆",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1001-40805383.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "美国企业代表:坚定做中国发展的长期伙伴",
+          "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805389.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "\"为美中关系发展注入正能量\"",
+          "url": "http://world.people.com.cn/n1/2026/0925/c1002-40805390.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "金轩：北斗为新兴支柱产业打造重要增长极",
+          "url": "http://opinion.people.com.cn/n1/2026/0925/c461529-40805391.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "北斗的未来不在“同维竞争”",
+          "url": "http://opinion.people.com.cn/n1/2026/0324/c461529-40687370.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "李强出席第五届全球数字贸易博览会启动仪式并致辞",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805392.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "王沪宁主持召开全国政协主席会议",
+          "url": "http://politics.people.com.cn/n1/2026/0925/c1024-40805396.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "高质量推进城市更新是城市现代化建设的重要抓手",
+          "url": "http://opinion.people.com.cn/n1/2026/0924/c461530-40804635.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "中华人民共和国审计法实施条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081972.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《关于分类推进高校改革的意见》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7081587.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "关于促进房车消费的若干措施",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081441.htm",
+          "source": "中国政府网",
+          "category": "经济",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于进一步加强烟花爆竹全链条安全监管的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081356.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-09-25",
+          "time": "09:16",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-24",
       "items": [
