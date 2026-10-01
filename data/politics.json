@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-09-30T09:54:28+08:00",
+  "updatedAt": "2026-10-01T09:54:54+08:00",
   "days": [
+    {
+      "date": "2026-10-01",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260930/53249451c1e94d9487bff423e7504c55/c.html",
+          "title": "“清澈的爱，只为中国！”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "他是一名红军将领。面对敌人的威逼利诱、严刑拷打，始终坚贞不屈。在狱中，他强忍病痛，用短短数月时间写下了《可爱的中国》《清贫》等文稿。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260930/fc989cdd829947ab80fe75cd0adc469e/c.html",
+          "title": "到军博，致敬伟大的长征！",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”，正式面向公众开放啦！"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/8d7fa56cc0af49e499d352dc1f8201a3/c.html",
+          "title": "一片试验海，何以成为高端海工装备“摇篮”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "新华社济南9月29日电题：一片试验海，何以成为高端海工装备“摇篮”"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260927/8401487e1d924abaa42ae15f487cbd7e/c.html",
+          "title": "新华社权威快报丨中国蝉联世界技能大赛金牌榜榜首",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "记者从9月27日晚于上海举行的第48届世界技能大赛闭幕式上获悉，中国登顶本届大赛金牌榜。至此，中国已连续5届位居世界技能大赛金牌榜榜首。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/0dfa19a8472344dcb929ace64cf54b27/c.html",
+          "title": "中办国办印发《文化遗产保护传承“十五五”规划》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "新华社北京9月29日电近日，中共中央办公厅、国务院办公厅印发了《文化遗产保护传承“十五五”规划》，并发出通知，要求各地区各部门结合实际认真贯彻落实。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/b4cf459e0fe044d28afa3c82ed888e2a/c.html",
+          "title": "没有名字的墓碑——铭记长征路上无名红军烈士",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "新华社北京9月29日电题：没有名字的墓碑——铭记长征路上无名红军烈士"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/ce2fabb340594910909e23341aa83bbc/c.html",
+          "title": "解读“十五五”应急新蓝图丨基层防线怎样筑牢？",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "《现代化应急体系建设“十五五”规划》，将“一体提升减灾预防、抗灾设防、救灾保障能力”作为核心目标，对“十五五”时期安全生产、防灾减灾救灾等工作作出部署，为应急管理体系建设绘制了“施工图”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/9c227249cbc14d5e9f288c586ff217a6/c.html",
+          "title": "国务院安委办部署下阶段全国烟花爆竹安全监管重点工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "新华社北京9月29日电（记者黄韬铭）记者29日从应急管理部获悉，国务院安委会办公室当日召开全国烟花爆竹安全生产工作视频会议，总结上一阶段烟花爆竹安全生产工作，分析问题，研判形势，部署下阶段特别是旺季安全监管重点工作。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/72eb50ba6d3640b0b5ae164f2baad023/c.html",
+          "title": "筑牢粮食安全根基 建设宜居宜业和美乡村——国新办发布会聚焦“十五五”“三农”工作重点",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "9月29日，国务院新闻办公室在北京举行“开局起步‘十五五’”系列主题新闻发布会，农业农村部部长张柱，农业农村部副部长麦尔丹·木盖提，农业农村部新闻发言人、发展规划司司长陈邦勋介绍“十五五”时期加快农业农村现代化、扎实推进乡村全面振兴有关情况"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260928/358645210b2749568f64a0f3cfde811c/c.html",
+          "title": "国务院常务会议解读丨国务院常务会议研究宏观政策发力提效、促进有效投资有关工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "新华社北京9月28日电（记者魏玉坤）宏观政策是护航中国经济稳定运行的重要手段，是推动高质量发展的坚实保障。9月28日召开的国务院常务会议，研究宏观政策发力提效、促进有效投资有关工作，并作出一系列针对性部署。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/8a7761691b544d13a15e94c3fffdf6a7/c.html",
+          "title": "国庆假期将至南方有大范围降雨 较强冷空气自北向南影响中东部",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "未来三天（9月29日至10月1日），南方大范围降雨持续，西南、江南、华南的部分地区雨势较强。眼下，一股较强冷空气正在影响我国，中东部自北向南陆续迎来降温，气温将大面积创下半年来新低。国庆假期出行高峰将至，公众需关注最新天气预报，及时添衣，外"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/904e7c2606a54f7bb0b240104912acf5/c.html",
+          "title": "老区启新程 红土焕新貌——福建龙岩建设革命老区高质量发展示范区观察",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": "闽西是“二十年红旗不倒”的红色热土。近年来，闽西革命老区龙岩市立足红色根基、绿色优势，奋进革命老区高质量发展示范区征程，统筹推进生态文明建设、经济高质量发展、城乡融合、双向开放、公共服务共建共享和精神文明建设。当前，龙岩市人均地区生产总值跃"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/e049dc8ff71f4c5492e9f37f924d7799/c.html",
+          "title": "改革成效几何？技术突破在哪？环保怎样进阶？——问道盐湖",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260928/c899240409c94b8087f65a86999ad1e7/c.html",
+          "title": "新华社权威快报丨我国将绘制完成新一代全火星地质图",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/c03bad57f6e3453cbdfcb6a4f5bf8cc1/c.html",
+          "title": "“十五五”央企布局优化方向明晰 新兴产业扩能提质",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "庆祝中华人民共和国成立77周年招待会在京举行 习近平发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c1024-40808486.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "朝着全面建成社会主义现代化强国目标奋勇前进",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808476.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "习近平同文莱苏丹哈桑纳尔就中文建交35周年互致贺电",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c1024-40808487.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "《求是》杂志发表习近平总书记重要文章",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808490.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "人民日报社论:在新的伟大征程上接续奋斗再创辉煌",
+          "url": "http://opinion.people.com.cn/n1/2026/1001/c461529-40808491.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "努力在服务新时代国家战略中当先锋作表率",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808492.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "大道之行|\"一位大国领导人的远见与格局\"",
+          "url": "http://world.people.com.cn/n1/2026/1001/c1002-40808493.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "国办印发《关于发展体育赛事激发消费活力的意见》",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c1001-40808501.html",
+          "source": "人民网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "今日谈|弘扬英烈精神 凝聚奋进力量",
+          "url": "http://opinion.people.com.cn/n1/2026/1001/c461529-40808505.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "权威发布|现代化水网建设加快推进",
+          "url": "http://politics.people.com.cn/n1/2026/1001/c461001-40808502.html",
+          "source": "人民网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "金轩:服务业打开内需新空间",
+          "url": "http://opinion.people.com.cn/n1/2026/1001/c461529-40808506.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082378.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7082364.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "中华人民共和国审计法实施条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081972.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-01",
+          "time": "09:54",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "items": [
