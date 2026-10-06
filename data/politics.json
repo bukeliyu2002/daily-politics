@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-10-05T09:45:54+08:00",
+  "updatedAt": "2026-10-06T10:47:14+08:00",
   "days": [
+    {
+      "date": "2026-10-06",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20260930/53249451c1e94d9487bff423e7504c55/c.html",
+          "title": "“清澈的爱，只为中国！”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "他是一名红军将领。面对敌人的威逼利诱、严刑拷打，始终坚贞不屈。在狱中，他强忍病痛，用短短数月时间写下了《可爱的中国》《清贫》等文稿。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260930/fc989cdd829947ab80fe75cd0adc469e/c.html",
+          "title": "到军博，致敬伟大的长征！",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”，正式面向公众开放啦！"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/8d7fa56cc0af49e499d352dc1f8201a3/c.html",
+          "title": "一片试验海，何以成为高端海工装备“摇篮”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "新华社济南9月29日电题：一片试验海，何以成为高端海工装备“摇篮”"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261004/3cb24771e2f74a0f807b7a3829fac5d7/c.html",
+          "title": "赓续长征精神 奋进复兴征程·长征壮歌丨一口铜锅里的长征故事",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "走进青海省果洛藏族自治州班玛县红军沟纪念馆二楼展厅，一口铜锅静静陈列在展柜之中。锅体边缘破损，锅身留有修补痕迹，但浮雕纹样依旧清晰，外壁镌刻比翼鸟，锅底刻着的“百年偕老”四字清晰可辨。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261004/58d04d747863468b9f02da073708b404/c.html",
+          "title": "身边的红色地标丨香山革命纪念馆：“赶考”宝藏守初心",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "新华社北京10月4日电（记者罗鑫）北京西郊，林木苍翠、环境清幽，坐落于此的香山革命纪念馆庄重肃穆。这座造型独特、气势恢宏的建筑，自2019年9月对外开放以来，已成为不少市民和游客的热门打卡地。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261004/f738c1bbe24e4c28baf14313c691f2d2/c.html",
+          "title": "2025年全国政府采购规模超3.32万亿元",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "新华社北京10月4日电财政部日前发布了2025年全国政府采购简要情况。数据显示，2025年全国政府采购规模为33212.96亿元，其中货物、工程、服务政府采购规模分别为7953.92亿元、13045.08亿元和12213.96亿元，占全国政"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261004/bf000afc3cef45348a3d6003ea8500ed/c.html",
+          "title": "跟着课本走长征｜雄关如铁从头越 苍山如海映初心",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "娄山关，素有黔北咽喉之称，地势险要，堪称“一夫当关、万夫莫开”。1935年1月，中央红军挺进遵义，一克娄山关，确保了遵义会议的顺利召开。2月，红军在四渡赤水的转战途中，再克娄山关，赢得长征路上首场重大胜利。这场胜仗，极大提振鼓舞了红军士气，"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/0dfa19a8472344dcb929ace64cf54b27/c.html",
+          "title": "中办国办印发《文化遗产保护传承“十五五”规划》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "新华社北京9月29日电近日，中共中央办公厅、国务院办公厅印发了《文化遗产保护传承“十五五”规划》，并发出通知，要求各地区各部门结合实际认真贯彻落实。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/b4cf459e0fe044d28afa3c82ed888e2a/c.html",
+          "title": "没有名字的墓碑——铭记长征路上无名红军烈士",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "新华社北京9月29日电题：没有名字的墓碑——铭记长征路上无名红军烈士"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/ce2fabb340594910909e23341aa83bbc/c.html",
+          "title": "解读“十五五”应急新蓝图丨基层防线怎样筑牢？",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "《现代化应急体系建设“十五五”规划》，将“一体提升减灾预防、抗灾设防、救灾保障能力”作为核心目标，对“十五五”时期安全生产、防灾减灾救灾等工作作出部署，为应急管理体系建设绘制了“施工图”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/9c227249cbc14d5e9f288c586ff217a6/c.html",
+          "title": "国务院安委办部署下阶段全国烟花爆竹安全监管重点工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "新华社北京9月29日电（记者黄韬铭）记者29日从应急管理部获悉，国务院安委会办公室当日召开全国烟花爆竹安全生产工作视频会议，总结上一阶段烟花爆竹安全生产工作，分析问题，研判形势，部署下阶段特别是旺季安全监管重点工作。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/72eb50ba6d3640b0b5ae164f2baad023/c.html",
+          "title": "筑牢粮食安全根基 建设宜居宜业和美乡村——国新办发布会聚焦“十五五”“三农”工作重点",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": "9月29日，国务院新闻办公室在北京举行“开局起步‘十五五’”系列主题新闻发布会，农业农村部部长张柱，农业农村部副部长麦尔丹·木盖提，农业农村部新闻发言人、发展规划司司长陈邦勋介绍“十五五”时期加快农业农村现代化、扎实推进乡村全面振兴有关情况"
+        },
+        {
+          "url": "https://www.news.cn/politics/20260928/358645210b2749568f64a0f3cfde811c/c.html",
+          "title": "国务院常务会议解读丨国务院常务会议研究宏观政策发力提效、促进有效投资有关工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/8a7761691b544d13a15e94c3fffdf6a7/c.html",
+          "title": "国庆假期将至南方有大范围降雨 较强冷空气自北向南影响中东部",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20260929/904e7c2606a54f7bb0b240104912acf5/c.html",
+          "title": "老区启新程 红土焕新貌——福建龙岩建设革命老区高质量发展示范区观察",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平惦记的大河之洲展现生态新画卷",
+          "url": "http://politics.people.com.cn/n1/2026/1006/c461001-40809835.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "民生为大,把老百姓的事办实办好",
+          "url": "http://politics.people.com.cn/n1/2026/1006/c461001-40809832.html",
+          "source": "人民网",
+          "category": "民生",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "今日谈|服务贴心 假日舒心",
+          "url": "http://opinion.people.com.cn/n1/2026/1006/c461529-40809715.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "赓续长征精神 奋进复兴征程|红色初心,薪火相传",
+          "url": "http://politics.people.com.cn/n1/2026/1006/c461001-40809717.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "离谱网文批量上线,谁来管?",
+          "url": "http://opinion.people.com.cn/n1/2026/1005/c436867-40809613.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "人民领袖|播下爱我中华的种子",
+          "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808937.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "尼加拉瓜宣布退出中美洲议会",
+          "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809904.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "古特雷斯呼吁加沙地带永久停火",
+          "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809905.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "巴拿马型船闸将试行长期通航预约",
+          "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809746.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "日本开始第24轮核污染水排海",
+          "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809696.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "人权理事会通过中国提出的人人享有无障碍决议",
+          "url": "http://world.people.com.cn/n1/2026/1006/c1002-40809903.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082378.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7082364.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "中华人民共和国审计法实施条例",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081972.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于印发《“高效办成一件事”2026年度第二批重点事项清单》的通知",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7081880.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-06",
+          "time": "10:47",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "items": [
