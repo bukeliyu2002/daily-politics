@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-10-09T10:51:29+08:00",
+  "updatedAt": "2026-10-10T10:12:00+08:00",
   "days": [
+    {
+      "date": "2026-10-10",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261009/bc927827c7c04201a75a81ad7a29574d/c.html",
+          "title": "国家发展改革委有关负责人就《关于发展新质生产力的意见》答记者问",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "新华社北京10月9日电题：国家发展改革委有关负责人就《关于发展新质生产力的意见》答记者问"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/8db986e3abec49f0bb31e847f00daac8/c.html",
+          "title": "中国大洋100航次第二航段起航 “蛟龙”号首赴南太平洋开展作业",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "搭载“蛟龙”号载人潜水器的“深海一号”船从福建厦门起航，赴南太平洋执行中国大洋100航次第二航段科学考察（9月24日摄）。新华社记者黄韬铭摄"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/da45b50805474ddc871217373023d32d/c.html",
+          "title": "一图速览关于发展新质生产力的意见",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "一图速览关于发展新质生产力的意见-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/df52fc1f84d845bf8047ef394bc6ea47/c.html",
+          "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "新华社北京10月9日电中共中央、国务院印发《关于发展新质生产力的意见》（以下简称《意见》）。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/428f53ea25b6400e8d53998f31b0dda1/c.html",
+          "title": "两部门组织开展全国受灾群众冬春救助工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "新华社北京10月9日电（记者黄韬铭）记者9日从应急管理部获悉，应急管理部、财政部近日印发《关于组织开展2026—2027年度全国受灾群众冬春救助工作的通知》，组织各地全面摸排需救助对象，落实落细救助措施，切实保障好受灾群众基本生活。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/246a86e4caed4c51bb68235b9c90be2d/c.html",
+          "title": "铁路中秋国庆假期多项客运指标创历史新高",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "9月23日至10月8日，为期16天的铁路中秋国庆假期运输圆满收官，运输安全平稳有序，全国铁路累计发送旅客3.02亿人次，国家铁路累计发送货物1.92亿吨，同比分别增长24.6%、5.0%。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/0e0c314c0b5d4a19a5356ae5aa829090/c.html",
+          "title": "我国公共服务领域将提供国家通用手语、盲文服务",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "新华社北京10月9日电（记者魏冠宇）我国将在教育考试、医疗、政务、司法、应急救援、交通运输、商业、文旅等公共服务领域提供国家通用手语和国家通用盲文服务。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261009/0752d5b40cf94d63a4c3660b14680258/c.html",
+          "title": "随笔 | 中国的“十一”，世界的“黄金周”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "从悉尼环形码头的熙攘人流，到佛罗伦萨至罗马的火车上乡音交错，再到东非大草原上的一张张中国面孔……中国游客暂别繁忙的日常，奔赴异域和远方。对于众多海外目的地来说，中国火热的出境游既能带动当地文旅商贸发展，更是跨文化交流的宝贵契机。正如网友评论"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/915a13d054b24bbc9325556ed7858c8c/c.html",
+          "title": "四条高铁新线交出首份国庆运输答卷",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "回乡探亲更快捷，跨城游玩更方便，沿线景区迎来更多游客……刚刚过去的国庆假期，京港高铁雄安至商丘段、西渝高铁西安至安康段、宜昌至兴山高铁、哈尔滨至伊春高铁迎来开通后的首个假日运输“大考”，为群众出行增添便利，也为沿线文旅消费带来新活力。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/f8ce8ee6152540808c1dfb098430aa91/c.html",
+          "title": "国庆假期7天全国铁路发送旅客1.52亿人次",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "国庆假期7天，全国铁路发送旅客1.52亿人次。这个假期，你哪天在路上？"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/5f46506a518044ca9fb0d275015f5f2d/c.html",
+          "title": "新华视点丨新就业形态劳动者权益保障新规回应哪些关切",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "新华社北京10月8日电题：新就业形态劳动者权益保障新规回应哪些关切"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/55e24408675141af8a628422d14e1699/c.html",
+          "title": "国庆假期高速公路新能源汽车日均充电量同比增长51.42%",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-10-10",
+          "time": "10:11",
+          "summary": "新华社北京10月8日电（记者王悦阳）记者10月8日从国家能源局获悉，通过对纳入国家充电设施监测服务平台的6.27万个高速公路充电设施（枪）的统计分析，自10月1日0时至10月7日24时，我国高速公路新能源汽车充电次数共计671.1万次，充电"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/0750e0bd556f4998bedb4cfbac094381/c.html",
+          "title": "国庆假期全国安全形势总体平稳",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/fea3a6c9bb2b46339d94509b172923bb/c.html",
+          "title": "关于印发医疗康复护理扩容提升工程实施方案的通知",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261008/86f257d695274d2cba247bced81a65a8/c.html",
+          "title": "从太空“行李箱”看中国航天70年",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "人民锐评：银发不只有“经济” 宜有更多“被看见”",
+          "url": "http://opinion.people.com.cn/n1/2026/0319/c436867-40685031.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "\"读懂中国道路与治理理念的权威指南\"",
+          "url": "http://politics.people.com.cn/n1/2026/1010/c461001-40811613.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "为人类探索现代化道路带来更多启迪",
+          "url": "http://world.people.com.cn/n1/2026/1010/c1002-40811608.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "科学把握\"第二个结合\"的重大现实意义",
+          "url": "http://opinion.people.com.cn/n1/2026/1009/c461530-40810960.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "赓续长征精神 奋进复兴征程|长征路变幸福路",
+          "url": "http://politics.people.com.cn/n1/2026/1010/c461001-40811614.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "人民领袖|播下爱我中华的种子",
+          "url": "http://politics.people.com.cn/n1/2026/1002/c461001-40808937.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "巴拿马强震后又发生6.9级地震",
+          "url": "http://world.people.com.cn/n1/2026/1010/c1002-40811595.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "美国宣布对国际刑事法院实施制裁",
+          "url": "http://world.people.com.cn/n1/2026/1010/c1002-40811565.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "彭丽媛向联合国教科文组织女童和妇女教育奖颁奖仪式发表视频致辞",
+          "url": "http://politics.people.com.cn/n1/2026/1010/c1001-40811605.html",
+          "source": "人民网",
+          "category": "民生",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "王毅会见太平洋岛国政治家联合考察团",
+          "url": "http://politics.people.com.cn/n1/2026/1010/c1001-40811606.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "李书磊出席学习《习近平文化文选》第一卷、第二卷座谈会并讲话",
+          "url": "http://politics.people.com.cn/n1/2026/1010/c1001-40811601.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院关于发展新质生产力的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7082737.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082378.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        },
+        {
+          "title": "中办国办印发《文化遗产保护传承“十五五”规划》",
+          "url": "https://www.gov.cn/zhengce/202609/content_7082364.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-10",
+          "time": "10:12",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "items": [
