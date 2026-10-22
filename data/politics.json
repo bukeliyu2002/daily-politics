@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-10-21T09:24:38+08:00",
+  "updatedAt": "2026-10-22T09:22:17+08:00",
   "days": [
+    {
+      "date": "2026-10-22",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261021/c74860d5ca5c43f99d84ae1d4ef84f83/c.html",
+          "title": "新华社记者在美国找到一批红军长征时的珍贵照片",
+          "source": "新华网",
+          "category": "国际",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "从1934年10月中央红军渡过于都河，到1936年三大主力红军会师，两年时间，漫漫征途，红军长征留下的照片屈指可数。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/2384f03cb58e4a13ad87841722f35f73/c.html",
+          "title": "中国工农红军长征胜利90周年金银纪念币即将发行",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "中国人民银行10月21日发布公告称，定于2026年10月22日发行中国工农红军长征胜利90周年金银纪念币一套。该套金银纪念币共2枚，其中金质纪念币1枚，银质纪念币1枚，均为中华人民共和国法定货币。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/000a9ae39fb746c78a5e8813c5b8f3cc/c.html",
+          "title": "两部门派工作组赴浙江协助指导防汛防台风工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "国家防总、应急管理部针对上海浙江福建启动防汛防台风四级应急响应派出工作组赴浙江协助指导防汛防台风工作"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/d6c1cf1bf34e481584149f1707ef8319/c.html",
+          "title": "把问题隐患化解在成灾之前——多部门详解“十五五”现代化应急体系建设",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "10月21日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，应急管理部新闻发言人、副部长宋元明，国家消防救援局新闻发言人、副局长宋树欣，国家矿山安全监察局副局长张瑞庭，中国地震局副局长张勤介绍奋力推进“十五五”时期国家应急管"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/af00133feaa948df9cce78666a5873ec/c.html",
+          "title": "时政镜距离丨山河为证 精神永恒",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "时政镜距离丨山河为证 精神永恒-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/ba5f2f175b264d7b969d9df395adbfa5/c.html",
+          "title": "国家能源局发文推动煤电与新能源融合发展",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "新华社北京10月21日电（记者王悦阳）记者10月21日从国家能源局获悉，国家能源局近日印发《关于推动煤电与新能源融合发展的实施意见》提出，到“十五五”末，煤电与新能源融合场景模式成熟应用，融合项目相较改造建设前的年度碳排放水平显著降低。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/17fcb264c4564cd78a61adc7d0f6a82d/c.html",
+          "title": "人民日报任仲平文章：在新长征路上阔步前行——写在长征胜利90周年之际",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "新华社北京10月21日电10月22日人民日报发表任仲平文章：在新长征路上阔步前行——写在长征胜利90周年之际"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/19ab0db96aeb4163b76f5f6ac5caec61/c.html",
+          "title": "赓续长征精神 奋进复兴征程·长征壮歌丨“切尾巴”战役的胜利回响",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "秋日清晨，登上陕西延安市吴起县城西面的胜利山，山顶的两棵杜梨树枝繁叶茂，山下的中央红军长征胜利纪念园里，不时有参观者驻足凝望。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/421cd600426544ba9de058ca979f4629/c.html",
+          "title": "此去杳杳，见字如面——红军家书里的守望",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "1934年秋，于都河畔秋风萧瑟。中央红军主力集结于此，踏上长征。没有人知道前路几许、归期几何。那些穿越烽火的家书，是信仰的回响，是亲人间最真挚的牵绊。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/d68a6a9ea5974f938fc283c1341f5807/c.html",
+          "title": "工信部等四部门印发新规征求意见稿——为汽车设计创新划红线",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "国庆期间，一名司机在高速上开启智驾后直接睡着，引发全网热议；此前，某全隐藏式电动门把手断电后失效，酿成事故；8月，9家车企合计超427.6万辆新能源车，因应急机械拉手设计问题被集中召回……这些事件指向同一个问题：新能源汽车“科技感”在加速提"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261020/b649280a46ae4e0dba124f7005c20d6f/c.html",
+          "title": "万里红路 精神丰碑——长征国家文化公园建设扎实推进",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "新华社北京10月20日电题：万里红路精神丰碑——长征国家文化公园建设扎实推进"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261020/e5818fcacdb84f20b92b735f7a503613/c.html",
+          "title": "长征文物资源家底基本摸清",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": "新华社北京10月20日电（记者徐壮）记者从国家文物局了解到，我国长征文物资源家底基本摸清。全国长征主题不可移动文物2100余处，第四次全国文物普查新发现长征遗址遗迹63处。长征主题纪念设施以纪念馆、纪念碑、烈士墓、陵园居多，其中长征纪念馆7"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261020/302a3ce5778a45feb67640caa57b3f52/c.html",
+          "title": "推动系统性保护 构建大保护格局——国新办发布会聚焦“十五五”时期加强文化遗产保护",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261020/d761169d57d244be8000ba5d93a6713e/c.html",
+          "title": "铸牢共同体 中华一家亲丨目瑙纵歌齐起舞 同心共筑一家亲",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261020/5d695a7e8cb24b89b11cd4d9564fa006/c.html",
+          "title": "赓续长征精神 奋进复兴征程｜探访吴起中央红军长征胜利纪念馆",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "任仲平：在新长征路上阔步前行",
+          "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819177.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "人民日报八个整版聚焦长征胜利90周年",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819293.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "在新的长征路上继续奋勇前进",
+          "url": "http://politics.people.com.cn/n1/2026/1021/c461001-40818453.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "弘扬伟大长征精神 走好今天的长征路",
+          "url": "http://politics.people.com.cn/n1/2026/1020/c461001-40817681.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "人民日报社论:齐心协力走好新的长征路",
+          "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819174.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "为巩固和发展爱国统一战线作出新的更大贡献",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819178.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "丁薛祥会见2026年国际科学理事会中期会员大会部分外宾",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c1024-40819176.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "以坚定的历史自觉\"走自己的路\"",
+          "url": "http://opinion.people.com.cn/n1/2026/1022/c461530-40819198.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "任网平:每一代人都有自己的万水千山",
+          "url": "http://opinion.people.com.cn/n1/2026/1022/c1003-40819313.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "\"铁心跟党走\"的生动写照",
+          "url": "http://politics.people.com.cn/n1/2026/1022/c461001-40819208.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "打击AI造假不能仅靠受害者发声",
+          "url": "http://opinion.people.com.cn/n1/2026/1021/c436867-40818870.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "中办国办关于推动科技创新和产业创新深度融合的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院关于发展新质生产力的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7082737.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082378.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-22",
+          "time": "09:22",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "items": [
