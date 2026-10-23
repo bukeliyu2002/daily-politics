@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-10-22T09:22:17+08:00",
+  "updatedAt": "2026-10-23T09:21:02+08:00",
   "days": [
+    {
+      "date": "2026-10-23",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261021/c74860d5ca5c43f99d84ae1d4ef84f83/c.html",
+          "title": "新华社记者在美国找到一批红军长征时的珍贵照片",
+          "source": "新华网",
+          "category": "国际",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "从1934年10月中央红军渡过于都河，到1936年三大主力红军会师，两年时间，漫漫征途，红军长征留下的照片屈指可数。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261021/2384f03cb58e4a13ad87841722f35f73/c.html",
+          "title": "中国工农红军长征胜利90周年金银纪念币即将发行",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "中国人民银行10月21日发布公告称，定于2026年10月22日发行中国工农红军长征胜利90周年金银纪念币一套。该套金银纪念币共2枚，其中金质纪念币1枚，银质纪念币1枚，均为中华人民共和国法定货币。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/0760ae81f1a34be387cc84338bbeb1db/c.html",
+          "title": "新华社消息丨西藏那曲市巴青县地震已造成16人遇难 救灾物资已陆续运抵灾区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "新华社消息丨西藏那曲市巴青县地震已造成16人遇难 救灾物资已陆续运抵灾区-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/68af256675004e06991e7de3e0cf1c25/c.html",
+          "title": "国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应提升至三级 消防救援队伍已抵达灾区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震，已造成16人遇难，54人受伤。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/6e2a342673114e3c975ad62a02972027/c.html",
+          "title": "多方救援保障力量奔赴西藏巴青县地震受灾区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "新华社拉萨10月23日电（记者李键、蒋梦辰）记者从西藏自治区应急指挥部获悉，西藏那曲市巴青县7.0级地震发生后，西藏自治区应急指挥部组织各级各部门迅速开展人员搜救、伤员救治、群众转移安置等工作，目前公安、消防、国网、交通等救援保障力量正赶往"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/20e214b2bed846c2b3cfc76c749172a6/c.html",
+          "title": "聚力奋发 推动高质量发展行稳致远——“十五五”专项规划观察之二",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "新华社北京10月22日电题：聚力奋发推动高质量发展行稳致远——“十五五”专项规划观察之二"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/e53607a1698c47a88378e1268b376e63/c.html",
+          "title": "出版界推出一批纪念中国工农红军长征胜利90周年优秀主题图书",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "新华社北京10月22日电今年是中国工农红军长征胜利90周年。全国出版界以高度的政治责任感和历史使命感，紧紧围绕“弘扬伟大长征精神、走好新时代的长征路”主题，加强组织领导，统筹出版资源，强化选题论证，明确目标任务，在开拓创新、打造精品上下功夫"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/25d312140f094e5384084da09990707f/c.html",
+          "title": "中国地震局对西藏那曲市巴青县地震启动二级应急响应",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "新华社北京10月22日电记者22日从中国地震局获悉，中国地震局对西藏那曲市巴青县地震启动二级应急响应。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/07f78e2e15504ede9a2e7b8d57d9d71d/c.html",
+          "title": "我国已同153国缔结3196对友好城市（省州）关系",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:20",
+          "summary": "新华社西安10月22日电（记者曹嘉玥、付瑞霞）记者22日从中国人民对外友好协会了解到，我国已同世界上153个国家缔结了3196对友好城市（省州）关系。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/2cf85e918b37485b96014604f7b4a94e/c.html",
+          "title": "淮河防总、淮委对江苏淮河水系启动防汛四级应急响应",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": "新华社合肥10月22日电（记者马姝瑞）记者从水利部淮河水利委员会了解到，水利部已于10月22日12时对江苏省启动洪水防御Ⅳ级应急响应。根据《淮河防汛抗旱总指挥部防汛抗旱应急预案》《淮河水利委员会水旱灾害防御应急预案》，经综合研判，淮河防总、"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/034802fab9544bb0834133cb52fd9b39/c.html",
+          "title": "新华解码丨碳排放双控，工业和信息化领域怎样推进",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": "新华社北京10月22日电题：碳排放双控，工业和信息化领域怎样推进"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/b14f68d97add438eb8cae3ed3f247c7a/c.html",
+          "title": "“党的创新理论大家读”丛书（第一辑）出版发行",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": "新华社北京10月22日电为进一步推进党的创新理论学习传播和研究阐释，更好推动习近平新时代中国特色社会主义思想入脑入心，中央宣传部理论局组织一批知名专家学者围绕党的创新理论标识性概念撰写大众学术读物，编辑形成“党的创新理论大家读”丛书。近日，"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/4c77a4c3c92f4ea882087f7407719e6a/c.html",
+          "title": "工业和信息化部工业软件标准化技术委员会成立",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/543f117d225341e1ad26bacc55f32319/c.html",
+          "title": "长图海报丨烽火征途 方寸为证——纪念中国工农红军长征胜利90周年",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261022/000a9ae39fb746c78a5e8813c5b8f3cc/c.html",
+          "title": "两部门派工作组赴浙江协助指导防汛防台风工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "弘扬伟大长征精神 奋力创造新的辉煌",
+          "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819879.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "人民日报社论：齐心协力走好新的长征路",
+          "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819174.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "任仲平：在新长征路上阔步前行",
+          "url": "http://opinion.people.com.cn/n1/2026/1022/c461529-40819177.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "“长征的历史从未远去，长征精神就在我们身边”",
+          "url": "http://world.people.com.cn/n1/2026/1023/c1002-40819881.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "人民日报评论员:在新的长征路上奋力创造新的辉煌",
+          "url": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819932.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "赵乐际主持召开十四届全国人大常委会委员长会议",
+          "url": "http://politics.people.com.cn/n1/2026/1023/c1024-40819876.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "深刻把握习近平党建思想\"十四个坚持\"的科学体系与内在逻辑",
+          "url": "http://opinion.people.com.cn/n1/2026/1023/c461530-40819910.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "坚守联合国理想,携手开创人类共同美好未来",
+          "url": "http://opinion.people.com.cn/n1/2026/1023/c461529-40819886.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "把革命前辈开创的伟大事业不断推向前进",
+          "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819897.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "重温历史 汲取奋进智慧和力量",
+          "url": "http://politics.people.com.cn/n1/2026/1023/c461001-40819900.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "国际人士:前三季度中国经济发展韧性和活力持续彰显",
+          "url": "https://world.people.com.cn/n1/2026/1023/c1002-40819880.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "中办国办关于推动科技创新和产业创新深度融合的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院关于发展新质生产力的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7082737.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于发展体育赛事激发消费活力的意见",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082492.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《医疗康复护理扩容提升工程实施方案》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202609/content_7082378.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-23",
+          "time": "09:21",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "items": [
