@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-10-26T09:03:38+08:00",
+  "updatedAt": "2026-10-27T10:00:29+08:00",
   "days": [
+    {
+      "date": "2026-10-27",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261026/302ccb1c4905428a9a246085d0be1a28/c.html",
+          "title": "时代人物丨百岁老兵的军礼",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "10月22日，四川省达州市宣汉县。百岁老兵陈大国坐在电视机前，当纪念中国工农红军长征胜利90周年大会的新闻播出，老人缓缓举起右手，敬了一个军礼。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261025/b2b8274ebb224e39a498815e426c186a/c.html",
+          "title": "流感高发季来临 医生支招青少年儿童科学防护",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "新华社长沙10月25日电（记者帅才）秋冬季节是呼吸道疾病高发季节。儿科医生提醒，近期，一些医院收治的流感患儿增加，青少年儿童需要做好科学、规范的个人防护。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261026/f090f340423242c6a856d3a3748afb8e/c.html",
+          "title": "民生为大 更好满足人民群众对美好生活的向往——“十五五”专项规划",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "新华社北京10月26日电题：民生为大更好满足人民群众对美好生活的向往——“十五五”专项规划观察之五"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261026/f6a65a6932b14346964cae179ca97853/c.html",
+          "title": "诗词忆长征丨在8首诗词里重温伟大长征",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "中国工农红军的伟大长征，被誉为“地球上的红飘带”，红军将士创作的长征诗词，恰似镶嵌在红飘带上的宝石。让我们以八首长征诗词为线索，穿越历史烟云，重温红军跋山涉水、浴血奋战的烽火岁月，在字里行间感受伟大长征精神。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261027/a132bed3830145968ca824e1ab2adef9/c.html",
+          "title": "中央纪委国家监委通报2026年1至9月全国纪检监察机关监督检查审查调查情况",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "2026年1至9月，全国纪检监察机关共接收信访举报350.6万件次，其中检举控告类信访举报84.7万件次。处置问题线索214.9万件。立案80万件，其中立案省部级及以上干部73人、厅局级干部4203人、县处级干部3.4万人、乡科级干部11."
+        },
+        {
+          "url": "http://www.news.cn/politics/20261026/9b0ed446df79465d96efa8a7cecd26a9/c.html",
+          "title": "3分钟120人，这所乡村小学上演教科书式“撤离”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "新华社西宁10月26日电（记者柳泽兴李占轶）16年常态化地震演练，120人3分钟紧急撤离，老师把受到惊吓的学生抱出宿舍楼……在青海省玉树藏族自治州杂多县结多乡中心寄校，地震来临时，一场教科书式的应急疏散视频得到众多网友点赞。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261025/01b4cf07f6b64ca6a8e07d6d4dec6a0e/c.html",
+          "title": "二十届中央第七轮巡视完成反馈",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "新华社北京10月25日电根据党中央部署，二十届中央第七轮巡视反馈工作近日完成。巡视反馈采取集中反馈和巡视组“一对一”反馈相结合的方式进行。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261026/25cdae5423f24912b57332398b4f5c4f/c.html",
+          "title": "西湖申遗成功十五年，交出保护发展的独特答卷——一湖碧水，润泽千年",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "2026年的“杭州西湖日”，西湖没办庆典，而是用一场“AI西湖”的聚会，把人工智能时代的想象，轻轻放在湖山之间。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261026/47a44a2aa32b452abe526fd89f7adcee/c.html",
+          "title": "中国红十字会调拨3100余件（套）救灾物资运抵西藏巴青地震灾区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "西藏那曲市巴青县发生7.0级地震后，中国红十字会启动一级响应。截至25日18时，共调拨3100余件（套）救灾物资运抵灾区，食品、家庭箱、温暖包等正陆续运抵。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261025/5ce666bf301a4c1d9abd060e5dea0cf9/c.html",
+          "title": "重点突破 多个“首部”“首次”布局发展新方向——“十五五”专项规划观察之四",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "新华社北京10月25日电题：重点突破多个“首部”“首次”布局发展新方向——“十五五”专项规划观察之四"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/f21a5777774749daa0eed451c81f4002/c.html",
+          "title": "国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "新华社北京10月23日电国务院办公厅日前印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》（以下简称《意见》），对相关工作作出部署。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/db5460c98f9640a6a2abb6109a21e1eb/c.html",
+          "title": "何以中国·新时代的长江之歌丨一江碧水万类兴",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": "“我也舍不得啊，可为了长江，为了我们的子孙后代，这道坎，必须过！”"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/3d46162d1c18496b891d646841ab4ca5/c.html",
+          "title": "新华视点丨重走长征路 薪火永相传",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/0760ae81f1a34be387cc84338bbeb1db/c.html",
+          "title": "新华社消息丨西藏那曲市巴青县地震已造成16人遇难 救灾物资已陆续运抵灾区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261023/68af256675004e06991e7de3e0cf1c25/c.html",
+          "title": "国务院抗震救灾指挥部办公室、应急管理部将国家地震灾害应急响应提升至三级 消防救援队伍已抵达灾区",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "一见·读懂“恒”字里的深意",
+          "url": "http://politics.people.com.cn/n1/2026/1027/c461001-40822329.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "坚持党的全面领导，不断提高党的长期执政能力",
+          "url": "http://politics.people.com.cn/n1/2026/1027/c461001-40822332.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "加强党的组织建设 夯实兴党强党根基",
+          "url": "http://politics.people.com.cn/n1/2026/1027/c461001-40822334.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "在新征程上持之以恒推进全面从严治党",
+          "url": "http://opinion.people.com.cn/n1/2026/1026/c461529-40821245.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "《事业单位登记管理条例》",
+          "url": "http://politics.people.com.cn/n1/2026/1027/c1001-40822014.html",
+          "source": "人民网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "坚持不懈把全面从严治党向纵深推进",
+          "url": "http://opinion.people.com.cn/n1/2026/1027/c461530-40822027.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "二十届中央第八轮巡视完成进驻",
+          "url": "http://politics.people.com.cn/n1/2026/1027/c1001-40822052.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "前三季度全国纪检监察机关处分68万人",
+          "url": "http://politics.people.com.cn/n1/2026/1027/c461001-40822371.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "评论员观察|一江碧水悟思想",
+          "url": "http://opinion.people.com.cn/n1/2026/1027/c461529-40822041.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "一位西班牙共产党员的中国见闻与思考",
+          "url": "http://world.people.com.cn/n1/2026/1027/c1002-40821984.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "中方呼吁通过止战保护儿童",
+          "url": "http://world.people.com.cn/n1/2026/1027/c1002-40822066.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "事业单位登记管理条例",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084279.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "中办国办关于推动科技创新和产业创新深度融合的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院关于发展新质生产力的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7082737.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-27",
+          "time": "10:00",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "items": [
