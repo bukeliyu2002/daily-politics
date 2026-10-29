@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-10-28T10:05:02+08:00",
+  "updatedAt": "2026-10-29T10:14:42+08:00",
   "days": [
+    {
+      "date": "2026-10-29",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261028/a0df9167c9ff419b970a13b5aabb2f16/c.html",
+          "title": "矢志不渝为人民｜正风笃行",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "矢志不渝为人民｜正风笃行-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261026/302ccb1c4905428a9a246085d0be1a28/c.html",
+          "title": "时代人物丨百岁老兵的军礼",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "10月22日，四川省达州市宣汉县。百岁老兵陈大国坐在电视机前，当纪念中国工农红军长征胜利90周年大会的新闻播出，老人缓缓举起右手，敬了一个军礼。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261025/b2b8274ebb224e39a498815e426c186a/c.html",
+          "title": "流感高发季来临 医生支招青少年儿童科学防护",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "新华社长沙10月25日电（记者帅才）秋冬季节是呼吸道疾病高发季节。儿科医生提醒，近期，一些医院收治的流感患儿增加，青少年儿童需要做好科学、规范的个人防护。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/6d83cdb65fb947c3a94f0c36c70fb144/c.html",
+          "title": "向“新”而行 以“质”争先——从“十五五”专项规划看新质生产力发展前景",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "新华社北京10月28日电题：向“新”而行以“质”争先——从“十五五”专项规划看新质生产力发展前景"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/400d98b2389345a8995ea450f8b02683/c.html",
+          "title": "第十四届澜沧江·湄公河流域国家文化艺术节在云南开幕",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "10月28日，老挝演员在澜沧江·湄公河流域国家文化艺术节开幕式文艺晚会上表演舞蹈《卡桑努对歌和琅勃拉邦对歌》。新华社记者胡超摄"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261029/5302ddb965cf4956881b342818905a88/c.html",
+          "title": "文物安全的红线，碰不得",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "在自家宅基地发现古墓葬，文物能挖吗？河道内捡到文物，该如何处置？生产生活中偶然捡到文物，能倒卖吗？……近日，最高人民法院、国家文物局发布6个依法惩治文物犯罪典型案例，回应这些“家常”问题，引导广大群众增强文物保护意识和法律意识，共同守护文物"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/5e6b051877aa4e0d935f246c7e06db33/c.html",
+          "title": "百姓有望在“家门口”体验到15项以上中医适宜技术",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "新华社北京10月28日电刮痧、经穴推拿、中药敷贴……今后，群众在基层医疗卫生机构就医，能够体验到的中医适宜技术有望达到6类15项以上。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/d9786e85c02a4dfca653d37fed77a84a/c.html",
+          "title": "“十五五”我国将全面提升农产品品质",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "新华社北京10月28日电（记者古一平）农业农村部近期印发《全国农产品品质提升“十五五”规划》，规划部署加强高质量标准引领、推进绿色生产转型、增加优质农产品供给、严格质量安全监管、强化科技赋能、强化国际合作与交流等重点任务，让人民群众吃得安全"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/dffbf4da48d2478686b8345582d2646a/c.html",
+          "title": "两部门部署西藏强降雪天气防范应对工作",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "10月28日上午，国家防灾减灾救灾委员会办公室、应急管理部组织自然资源部、中国气象局及西藏自治区联合会商，研判29日至31日西藏强降雪过程发展趋势，部署防范应对工作。按照应急管理部党委书记、部长张成中安排部署，应急管理部副部长徐加爱主持会商"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261027/3ef568e5bfa04aa09df62fd305bb96d0/c.html",
+          "title": "中国青少年发展基金会拨付资金支持西藏那曲救灾",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "新华社北京10月27日电（记者王明玉）记者10月27日从中国青少年发展基金会获悉，西藏那曲市巴青县发生7.0级地震后，中国青少年发展基金会在共青团中央指导下，紧急启动“希望同行紧急救灾——2026希望工程驰援那曲抗震救灾特别行动”，为灾区提"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261027/0cecb2df6582457585b13d1a63263d9b/c.html",
+          "title": "驻华使节参观“伟大的远征”主题展览",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "【简介】10月26日，106个驻华使馆、5个国际组织的驻华使节和外交官应外交部邀请走进中国人民革命军事博物馆，共同参观“伟大的远征——纪念中国工农红军长征胜利90周年主题展览”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261027/96d444cbdca9428db80e4666ed6d1dee/c.html",
+          "title": "文化新观察丨告别复杂操作 拥抱沉浸视听——广电行业从“双治理”迈向“双提升”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": "新华社北京10月27日电题：告别复杂操作拥抱沉浸视听——广电行业从“双治理”迈向“双提升”"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261027/8d857ee181bb4a3bacb0a716bcef47b6/c.html",
+          "title": "一批新文件发布助力城市全域数字化转型",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/5d27e1c81eba403d8cc816169bfd7108/c.html",
+          "title": "野鸭湖湿地成为京津冀首个“世界最佳自然保护地”",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261028/ceb7d41ac7d849819c03cd30f2aa6015/c.html",
+          "title": "从16件到大于22件——每万人口高价值发明专利拥有量如何大幅跃升",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "总书记的人民情怀丨“更加清醒坚定地推进反腐败斗争”",
+          "url": "http://politics.people.com.cn/n1/2026/1029/c1001-40823468.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "不断开创新时代管党治党、兴党强党新局面",
+          "url": "http://politics.people.com.cn/n1/2026/1026/c1001-40821250.html",
+          "source": "人民网",
+          "category": "科技",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "永远保持赶考的清醒和谨慎，驰而不息推进全面从严治党",
+          "url": "http://politics.people.com.cn/n1/2026/1029/c461001-40823879.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "探寻“中国之治”的成功密码",
+          "url": "http://politics.people.com.cn/n1/2026/1029/c461001-40823883.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "严明纪律规矩 推动营造风清气正的政治生态",
+          "url": "http://politics.people.com.cn/n1/2026/1029/c461001-40823885.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "做伟大长征精神的传承者弘扬者践行者",
+          "url": "http://politics.people.com.cn/n1/2026/1029/c461001-40823474.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "新时代廉洁文化建设为全面从严治党提供深层支撑",
+          "url": "http://opinion.people.com.cn/n1/2026/1029/c461530-40823510.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "外资企业坚定投资深圳、深耕中国",
+          "url": "http://world.people.com.cn/n1/2026/1029/c1002-40823482.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "别让\"避雷帖\"滚成网暴雪球",
+          "url": "http://opinion.people.com.cn/n1/2026/1029/c461529-40823500.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "俄外交部批评日本借影视作品歪曲历史",
+          "url": "http://world.people.com.cn/n1/2026/1029/c1002-40823467.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "古巴欢迎联大再次通过决议敦促美国结束对古封锁",
+          "url": "http://world.people.com.cn/n1/2026/1029/c1002-40823553.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "事业单位登记管理条例",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084279.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "中办国办关于推动科技创新和产业创新深度融合的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院关于发展新质生产力的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于《国家残疾预防行动计划（2026—2030年）》的批复",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7082737.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-10-29",
+          "time": "10:14",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "items": [
