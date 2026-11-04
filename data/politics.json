@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-11-03T11:52:33+08:00",
+  "updatedAt": "2026-11-04T10:57:47+08:00",
   "days": [
+    {
+      "date": "2026-11-04",
+      "items": [
+        {
+          "url": "http://www.news.cn/politics/20261103/8a6f6c875b7645e59b328673216573cb/c.html",
+          "title": "2026全球熊猫伙伴大会聚焦中国绿色发展之路",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "2026全球熊猫伙伴大会如约而至，以大熊猫为纽带，为世界打开一扇观察中国生态文明建设的窗口。来自全球各地的专家学者、媒体代表等齐聚四川成都，以“共护熊猫家园、共建美丽世界、共享开放机遇”为主题，聚焦中国绿色发展之路，进行深入交流。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261102/d9f4c45080ec4ce685595e5584308c35/c.html",
+          "title": "两种珍稀猴类连续5年同树共栖",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "近日，云南省保山市龙陵小黑山省级自然保护区的红外相机捕捉到多段熊猴与菲氏叶猴同树错峰共栖的影像。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261029/47c2613b158d4f98897939259823362b/c.html",
+          "title": "农事“丰”景丨金秋时节，农村都在忙什么？",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "新华社合肥10月29日电（记者水金辰）秋风掠过田畴，大地铺展开层层叠叠的金黄。秋天的乡村，正是“三秋”大忙时：一边抢收，一边整地播种，一边张罗着粮食归仓。秋收收什么？秋种种什么？收的粮食去哪儿了？记者采访了相关专家，并在一线做了探访。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/990a8740773941e686baa2286eb97759/c.html",
+          "title": "第七届世界媒体峰会将在北京举行",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "新华社北京11月4日电（记者孙奕、孙楠）第七届世界媒体峰会将于11月5日至9日在北京举行。来自全球112个国家和地区的近330家主流媒体、智库、政府部门及联合国和其他国际组织等机构的近500名代表将出席峰会。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261103/7f2bd8d6ce6b4e3cbe709192733ef87f/c.html",
+          "title": "学习新语｜五中全会精神学习手册，请查收",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "在中国共产党成立105周年、“十五五”开局起步的关键节点，党的二十届五中全会在北京举行，就持之以恒推进全面从严治党作出系统部署。一份学习手册，带你掌握相关要点。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/7c03220cefe449c68ae30372f9df9dc0/c.html",
+          "title": "养老服务消费补贴惠及243万失能老年人",
+          "source": "新华网",
+          "category": "经济",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "记者从民政部近日举行的新闻发布会上获悉：截至9月底，向中度以上失能老年人发放养老服务消费补贴项目累计核销金额93.3亿元，带动养老服务消费404.7亿元，243万失能老年人从中受益。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261103/031ab1987235455f874687273b5a05f4/c.html",
+          "title": "国家知识产权局印发《专利和商标审查“十五五”规划》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "新华社北京11月3日电（记者刘祯）记者11月3日获悉，国家知识产权局日前印发《专利和商标审查“十五五”规划》，明确了“十五五”时期开展专利和商标审查工作的主要目标、重点任务和专项工程。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/b7baab25c8ad4465aa11b9cfe44ed0da/c.html",
+          "title": "2027年军队文职人员公开招考工作全面展开",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "新华社北京11月4日电为广泛延揽社会优秀人才服务军队建设，中央军委政治工作部近日部署展开2027年军队文职人员公开招考工作。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261102/9ef29f4afca04da9a80cbcf0b4ae7842/c.html",
+          "title": "人民治理黄河80年丨大河新绿",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "再过几天就是立冬，在豫西三门峡天鹅湖国家城市湿地公园，今年首批来此越冬的白天鹅已如约赶来。“它们会用足迹‘投票’。”湿地保护中心保卫科科长康国峰说，天鹅数量逐年增加说明生态不断向好。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261103/6d54750ce9b4434eab4b9a7f3a8d605c/c.html",
+          "title": "2026年度省级党委和政府安全生产考核巡查受理问题隐患线索工作启动",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "按照2026年度中央安全生产考核巡查工作安排，自11月中旬起，24个中央安全生产考核巡查组将陆续进驻31个省、自治区、直辖市和新疆生产建设兵团开展2026年度省级党委和政府安全生产考核巡查。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261103/27325ffa9aef45fdb822b3853544da79/c.html",
+          "title": "党的二十届五中全会《决定》是怎样诞生的",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "党的二十届五中全会《决定》是怎样诞生的-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261102/7bd5296315024e37995ff2b920afaaea/c.html",
+          "title": "强党强国开新局 凝心聚力谱华章——各地干部群众深学细悟党的二十届五中全会精神笃行实干开创未来",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": "新华社北京11月2日电题：强党强国开新局凝心聚力谱华章——各地干部群众深学细悟党的二十届五中全会精神笃行实干开创未来"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261102/6e545f194eb740118d8a1bb7ea0a76a8/c.html",
+          "title": "人民日报评论员：坚持问题导向，解决突出问题——论学习贯彻党的二十届五中全会精神",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261102/133adf0b47d940168b0373e8fbecc7c2/c.html",
+          "title": "“十五五”时期将启动实施中华文明探源工程第六期",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261102/20a11cd3c43743f49a762c8662e01b54/c.html",
+          "title": "谱写数智未来美好新篇章——我国积极推动全球互联网发展治理迈向更高水平",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "人民日报评论员：强化系统观念，增强整体效能",
+          "url": "http://opinion.people.com.cn/n1/2026/1104/c461529-40827071.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "把我们党建设得更好、更强",
+          "url": "http://opinion.people.com.cn/n1/2026/1030/c461529-40824147.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "坚持严的基调，激发全党积极性主动性创造性",
+          "url": "http://opinion.people.com.cn/n1/2026/1102/c461529-40825480.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "坚持问题导向，解决突出问题",
+          "url": "http://opinion.people.com.cn/n1/2026/1103/c461529-40826342.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "从三次乡村之行感悟\"努力让这条母亲河越来越美\"",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c461001-40827507.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "30多年前,习近平给出一道\"选择题\"",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c461001-40827510.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "把习近平党建思想作为持之以恒推进全面从严治党的根本遵循",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c1024-40827086.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "不断实现党的自我净化自我完善自我革新自我提高",
+          "url": "http://opinion.people.com.cn/n1/2026/1104/c461530-40827101.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "国纪平:把握开放大势 汇聚共赢之力",
+          "url": "http://opinion.people.com.cn/n1/2026/1104/c461529-40827078.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "中央宣讲团首场报告会在京举行",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c461001-40827070.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "挺膺担当建新功 不断开创中国式现代化新局面",
+          "url": "http://politics.people.com.cn/n1/2026/1104/c461001-40827079.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+          "url": "https://www.gov.cn/zhengce/202611/content_7084690.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "事业单位登记管理条例",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084279.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "国办关于适应人工智能技术发展助力构建就业友好型发展方式的意见",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084107.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "中办国办关于推动科技创新和产业创新深度融合的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7083930.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        },
+        {
+          "title": "中共中央 国务院关于发展新质生产力的意见",
+          "url": "https://www.gov.cn/zhengce/202610/content_7082820.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-04",
+          "time": "10:57",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "items": [
