@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-11-07T10:37:51+08:00",
+  "updatedAt": "2026-11-08T10:09:18+08:00",
   "days": [
+    {
+      "date": "2026-11-08",
+      "items": [
+        {
+          "url": "http://www.news.cn/politics/20261106/2b798cfd53e04b82aef424fd386d1b52/c.html",
+          "title": "海报丨秋景入画，赴一场诗词之约",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "诗是千年前的美景，景是千年后的诗意。从“橙黄橘绿”到“空山新雨”，从“晴空一鹤”到“夜色如水”，关于秋天的经典古诗词，远远不止“霜叶红于二月花”。在这个秋日里，我们精选了九句咏秋的经典诗词，搭配九张养眼的秋日风景，邀你同读共赏，一起领略大美"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/0b07847433144d429a9313e722711320/c.html",
+          "title": "从展厅到生活 文创让千年文脉触手可及",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "元代玻璃托盏，化作萌态十足的“猫窝”；唐代牵驼俑，在红纸剪影间重获灵动……从展台到日常，文创正以崭新的姿态叩开现代生活之门。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261103/8a6f6c875b7645e59b328673216573cb/c.html",
+          "title": "2026全球熊猫伙伴大会聚焦中国绿色发展之路",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "2026全球熊猫伙伴大会如约而至，以大熊猫为纽带，为世界打开一扇观察中国生态文明建设的窗口。来自全球各地的专家学者、媒体代表等齐聚四川成都，以“共护熊猫家园、共建美丽世界、共享开放机遇”为主题，聚焦中国绿色发展之路，进行深入交流。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/951a814764714cc5b756385a1d484361/c.html",
+          "title": "新华社权威速览丨2027年节假日安排来了",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "新华社权威速览丨2027年节假日安排来了-"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/8c45e9cfb8f54b2c98db310298ed7d3d/c.html",
+          "title": "在“活力中国调研行”中感受高水平对外开放定力",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "习近平总书记指出，“面对复杂的外部环境，要坚定信心，坚定不移办好自己的事，坚定不移扩大高水平对外开放”。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261106/97ed4585634f41e5b6283653af4746e2/c.html",
+          "title": "从生态环境治理到生态价值转换 黄土高原小山村结缘碳汇交易",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "老一辈高西沟人靠着镢头铁锹，治水、开荒。如今的高西沟，小山村有了新变化，旧山沟换了新模样。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261106/137fe180f9d942e183e117b64fa450d5/c.html",
+          "title": "国家医保局推进医保钱包2.0版升级应用 年底前全面实现跨省异地就医购药直接结算",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "国家医保局医保中心主任樊卫东11月5日在国家医保局举行的新闻发布会上表示，国家医保局推进医保钱包2.0版升级应用。截至目前，全国各省已全面实现个人账户省内共济，并通过医保钱包深入开展个人账户跨省共济，实现更大范围的共济。国家医保局将指导地方"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/a0c0b9f35ccc483aab83fe2b87b52863/c.html",
+          "title": "总体成效显著 仍需未雨绸缪——水利部介绍水旱灾害防御及应对厄尔尼诺相关情况",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "新华社北京11月5日电题：总体成效显著仍需未雨绸缪——水利部介绍水旱灾害防御及应对厄尔尼诺相关情况"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/c06cf6a3cb93439abc42e26149164f18/c.html",
+          "title": "历“九”弥新，中国与世界共享机遇——写在第九届中国国际进口博览会开幕之际",
+          "source": "新华网",
+          "category": "国际",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "第九届进博会现场，工作人员在对人形机器人做调试。王初摄（人民视觉）"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/2e12b5f211014bbebfccc71532b0afb9/c.html",
+          "title": "中国教育学如何走向世界",
+          "source": "新华网",
+          "category": "民生",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "“与我国日渐雄厚的教育实力相比，我们在国际学术体系中仍然存在思想丰富而理论供给不足、规模大而话语影响力偏弱、引进较多而输出较少等问题。”在中国教育科学研究院近日主办的中国教育学话语传播体系构建推进会上，南京师范大学教授冯建军这样概括中国教育"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/163dbaeeb88f4d4fab9ccc6033d81251/c.html",
+          "title": "我国中东部将现大范围降水 气温大面积创新低",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "今明天（11月5日至6日），我国中东部地区降水范围有所缩减，江南部分地区雨势较强，东北降雪频繁。后天中东部降水范围将明显扩展，部分地区降水强度大，需防范雨雪天气对交通出行等方面的不利影响。受降水和冷空气影响，今天至10日，全国气温将大面积创"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/13a9008fd0334882bb90605896fe9465/c.html",
+          "title": "乌镇峰会热点问答|人工智能发展有哪些新趋势？",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": "乌镇峰会热点问答|人工智能发展有哪些新趋势？-（新华网原创新闻作品）。"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/79e856e2c2c144f79668a19013f5019b/c.html",
+          "title": "加强统筹规划 夯实发展支撑——国家发展改革委新闻发布会聚焦现代化基础设施建设",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/990a8740773941e686baa2286eb97759/c.html",
+          "title": "第七届世界媒体峰会将在北京举行",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "url": "http://www.news.cn/politics/20261103/7f2bd8d6ce6b4e3cbe709192733ef87f/c.html",
+          "title": "学习新语｜五中全会精神学习手册，请查收",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "活力中国调研行｜“三农”发展不断迈上新台阶",
+          "url": "http://politics.people.com.cn/n1/2026/1108/c461001-40829741.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "今日谈|为全球发展进步注入青春力量",
+          "url": "http://opinion.people.com.cn/n1/2026/1108/c461529-40829746.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "打造党和人民信赖的新闻工作者队伍",
+          "url": "http://opinion.people.com.cn/n1/2026/1106/c461530-40828601.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "中央宣讲团在山东、陕西、青海宣讲",
+          "url": "http://politics.people.com.cn/n1/2026/1108/c461001-40829760.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "河北邱县:以更优服务解决群众急难愁盼",
+          "url": "http://politics.people.com.cn/n1/2026/1108/c461001-40829742.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "零和博弈为何没市场? 三场盛会有答案",
+          "url": "http://opinion.people.com.cn/n1/2026/1107/c436867-40829640.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "俄称打击乌多地区目标 乌称能源设施遭大规模袭击",
+          "url": "http://world.people.com.cn/n1/2026/1108/c1002-40829732.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "日本静冈县西部发生5.7级地震 东京有震感",
+          "url": "http://world.people.com.cn/n1/2026/1108/c1002-40829727.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "李书磊出席第七届世界媒体峰会 开幕式并发表主旨演讲",
+          "url": "http://politics.people.com.cn/n1/2026/1108/c1001-40829747.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "何立峰与美国财政部长贝森特、 贸易代表格里尔举行视频通话",
+          "url": "http://politics.people.com.cn/n1/2026/1108/c1001-40829752.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "和音｜传承“鼓岭情缘”，汇聚 中美相向而行的力量",
+          "url": "http://opinion.people.com.cn/n1/2026/1108/c461529-40829759.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085109.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于2027年部分节假日安排的通知",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改和废止部分行政法规的决定",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "中共中央关于持之以恒推进全面从严治党若干重大问题的决定",
+          "url": "https://www.gov.cn/zhengce/202611/content_7084690.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        },
+        {
+          "title": "事业单位登记管理条例",
+          "url": "https://www.gov.cn/zhengce/content/202610/content_7084279.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-08",
+          "time": "10:09",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-07",
       "items": [
