@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-11-09T10:30:01+08:00",
+  "updatedAt": "2026-11-10T12:32:19+08:00",
   "days": [
+    {
+      "date": "2026-11-10",
+      "items": [
+        {
+          "url": "http://www.news.cn/politics/20261106/2b798cfd53e04b82aef424fd386d1b52/c.html",
+          "title": "海报丨秋景入画，赴一场诗词之约",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "诗是千年前的美景，景是千年后的诗意。从“橙黄橘绿”到“空山新雨”，从“晴空一鹤”到“夜色如水”，关于秋天的经典古诗词，远远不止“霜叶红于二月花”。在这个秋日里，我们精选了九句咏秋的经典诗词，搭配九张养眼的秋日风景，邀你同读共赏，一起领略大美"
+        },
+        {
+          "url": "http://www.news.cn/politics/20261104/0b07847433144d429a9313e722711320/c.html",
+          "title": "从展厅到生活 文创让千年文脉触手可及",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "元代玻璃托盏，化作萌态十足的“猫窝”；唐代牵驼俑，在红纸剪影间重获灵动……从展台到日常，文创正以崭新的姿态叩开现代生活之门。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/c4e7791a39474405929edaf417caae21/c.html",
+          "title": "五中全会精神在基层｜特写：一叶红船映初心，百年薪火启新程",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "10月26日至29日，党的二十届五中全会在北京胜利召开。这次全会是在基本实现社会主义现代化的关键时期召开的一次十分重要的会议，会议审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，深入贯彻习近平党建思想，发出不断开创新时代"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261110/fb10c701c5ca41f082e5b1b665c06eb2/c.html",
+          "title": "新华社消息丨八部门联合印发通知支持实体书店服务全民阅读",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "新华社消息丨八部门联合印发通知支持实体书店服务全民阅读-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261110/a4f47b0fa9ea41928f3bb5eb5197d77e/c.html",
+          "title": "科技赋能+实景体验 多地启动消防宣传月活动",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "新华社北京11月9日电题：科技赋能+实景体验多地启动消防宣传月活动"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/14b7d393e59c4d8fbc165104ff345b83/c.html",
+          "title": "第43次南极考察丨“雪龙”号穿越赤道进入南半球",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "北京时间11月9日，中国第43次南极考察队在“雪龙”号上排列成“43”字样的队形合影留念。新华社记者邹多为摄"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/87284d9a56af4808adee47cc1893da05/c.html",
+          "title": "第二艘国产大型邮轮开启首个试运营航次",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "11月6日在中船集团上海外高桥造船有限公司拍摄的“爱达·花城号”。新华社记者丁汀摄"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/7f1ffd1f2f454742865b2b326928d25d/c.html",
+          "title": "我国成功发射卫星互联网低轨29组卫星",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "新华社海南文昌11月9日电（记者陈凯姿）9日4时24分，我国在海南商业航天发射场使用长征十二号运载火箭，成功将卫星互联网低轨29组卫星发射升空，卫星顺利进入预定轨道，发射任务获得圆满成功。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/9dc582754ecc4e2eae00cc7e8c5c3c64/c.html",
+          "title": "全国大部进入晴朗模式 寒潮核心降温区域转移至南方",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "未来三天（11月9日至11日），全国大部将进入降水稀少时段，晴天居多，但云南、贵州一带仍有频繁降雨。随着寒潮南下，降温核心区域向南推进，长江中下游等地最高气温将降至10℃出头，凉意十足，华南也会退去炎热转为凉爽。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261108/b1de6c3677af44e9abd509062af26e11/c.html",
+          "title": "不负时代使命 讲好中国故事——第36届中国新闻奖获奖作品扫描",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "新华社北京11月8日电题：不负时代使命讲好中国故事——第36届中国新闻奖获奖作品扫描"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/fdd1e3c97ce5439b8bbb805797ed8ffd/c.html",
+          "title": "超越煤电，光伏成为我国装机第一大电源——一束光改写电力版图",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "“能源问题是发展中的战略问题。我们率先开发风电、光伏，走的路现在看是有前瞻性的”。今年3月，习近平总书记在河北雄安新区中国华能集团考察时强调。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261109/449c620b43a543fe8239a0c8e91d4c46/c.html",
+          "title": "轻量化、高效率、强共情——中国短剧重构全球文化生产范式",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": "美国好莱坞的片场，竖起手机比例的取景框；把东北风情融入南洋华人生活的中国微短剧，上线首月在红果短剧平台观看量突破30亿次；展现宋锦非遗技艺的微短剧《顾盼锦年》在加拿大推广，让中国非遗大受欢迎……当前，全球微短剧市场进入爆发增长期，以短剧为代"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261108/fac4f76052224c63b728559e69ed606f/c.html",
+          "title": "新华社蓝皮书详解智能传播生态下媒体共治之策",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/951a814764714cc5b756385a1d484361/c.html",
+          "title": "新华社权威速览丨2027年节假日安排来了",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "url": "http://www.news.cn/politics/20261105/8c45e9cfb8f54b2c98db310298ed7d3d/c.html",
+          "title": "在“活力中国调研行”中感受高水平对外开放定力",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "习近平结束对美国的国事访问回到北京",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40806006.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "为中美关系提供新的战略指引——国际社会高度评价习近平主席美国之行",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805721.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛同美国总统特朗普夫妇茶叙",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805713.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1024-40805714.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "一见·一轮中秋月,照见中美两国的友好交往",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40806031.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "白宫里的三张照片,见证中美关系行稳致远",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c461001-40805945.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "开辟大国相处正确之道 书写中美关系历史新篇",
+          "url": "http://politics.people.com.cn/n1/2026/0926/c1001-40806014.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "钟声|把中美建设性战略稳定关系从愿景转化为行动",
+          "url": "http://opinion.people.com.cn/n1/2026/0926/c461529-40805720.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "美中贸易全国委员会会长:\"稳定的经贸关系为美中带来实实在在的利益\"",
+          "url": "http://world.people.com.cn/n1/2026/0926/c1002-40805722.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "建设更高水平平安中国是中国式现代化的重要目标和重要保障",
+          "url": "http://politics.people.com.cn/n1/2026/1110/c461001-40830827.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "《中医药传统知识保护条例》",
+          "url": "http://politics.people.com.cn/n1/2026/1109/c1001-40830736.html",
+          "source": "人民网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "以中华民族大团结促进中国式现代化的科学指南",
+          "url": "http://opinion.people.com.cn/n1/2026/1110/c461530-40830877.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "坚持以党的政治建设为统领",
+          "url": "http://opinion.people.com.cn/n1/2026/1110/c461529-40830849.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "读懂长征故事里的制胜之道",
+          "url": "http://politics.people.com.cn/n1/2026/1110/c461001-40830833.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "增强党性是全面从严治党的根本性任务",
+          "url": "http://politics.people.com.cn/n1/2026/1110/c1001-40830855.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "中央宣讲团在军委机关、中央政法委、广东、甘肃宣讲",
+          "url": "http://politics.people.com.cn/n1/2026/1110/c1001-40830843.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "俄常驻联合国代表称不接受“冻结”乌克兰冲突",
+          "url": "http://world.people.com.cn/n1/2026/1110/c1002-40830824.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "特朗普淡化再袭伊朗可能 国际油价早盘一度跌超5%",
+          "url": "http://world.people.com.cn/n1/2026/1110/c1002-40830826.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "何立峰与加拿大财政部长、国际贸易部长共同主持经济财金战略对话",
+          "url": "http://politics.people.com.cn/n1/2026/1110/c1001-40830842.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "张升民会见全军学习贯彻党的二十届五中全会精神宣讲团成员",
+          "url": "http://politics.people.com.cn/n1/2026/1110/c1001-40830844.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "中医药传统知识保护条例",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085591.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+          "url": "https://www.gov.cn/zhengce/202611/content_7085529.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085109.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于2027年部分节假日安排的通知",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于修改和废止部分行政法规的决定",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085098.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-10",
+          "time": "12:32",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "items": [
