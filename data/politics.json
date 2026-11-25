@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-11-24T14:51:15+08:00",
+  "updatedAt": "2026-11-25T13:18:22+08:00",
   "days": [
+    {
+      "date": "2026-11-25",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261125/010fcadf4aab4e708b1035c3bddad89c/c.html",
+          "title": "全国大部雨雪稀少迎回暖 最高气温20℃线将北抬至河北一带",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "今明天（11月25日至26日），我国雨雪范围明显收缩，后天起大部地区将以晴朗干燥天气为主。随着雨雪天气缩减，南北方陆续进入升温行列，明天最高气温20℃线将北抬至河北南部，多地气温会回升至较常年同期大幅偏高水平。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/dbc2dcf955f14f498ddb92ed6a0049f4/c.html",
+          "title": "神舟二十四号丨神舟二十四号载人飞船发射取得圆满成功",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "11月25日，搭载神舟二十四号载人飞船的长征二号F遥二十四运载火箭在酒泉卫星发射中心点火发射。神舟二十四号载人飞船与火箭成功分离，进入预定轨道，发射取得圆满成功。新华社发（汪江波摄）"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/2b4343e5a8ea4675b18d7219d45ca62f/c.html",
+          "title": "神舟二十四号出征仪式现场观众：祝成功，待凯旋",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "11月25日，神舟二十四号载人飞行任务航天员乘组出征仪式在酒泉卫星发射中心问天阁圆梦园广场举行。现场观众：祝你们成功，等你们凯旋。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/11ba18a24d664f198d6740f2277645bc/c.html",
+          "title": "工作没着落，租房太早、酒店太贵？这些青年驿站懂你",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "新华社贵阳11月24日电（记者向定杰）共享办公区，创业青年对着电脑讨论项目思路；咖啡休闲区，毕业生凑在一起交流面试信息；公寓前台旁，靠墙摆放着大大小小的行李箱……这是记者近日在贵阳市观山湖区翡翠天骄青年驿站看到的场景。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/e3456223660b4e56bc636ce70aeef1ca/c.html",
+          "title": "疾控“十五五”规划这样共绘健康蓝图",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "新华社北京11月24日电题：疾控“十五五”规划这样共绘健康蓝图"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/198ab95bfb284b5094257cf87be64edd/c.html",
+          "title": "跨年度三连超级月亮首现夜空",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "跨年度三连超级月亮首现夜空-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/b77aab9de0594cc8a5aed2376cc9412e/c.html",
+          "title": "铁路12306App新增候补兑现等信息提醒",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "新华社北京11月24日电记者24日从中国铁路12306技术中心了解到，铁路部门日前在铁路12306App系统通知中新增候补兑现情况、列车运行调整等信息提醒。旅客可在App内查看候补兑现结果，以及列车停运、折返、恢复开行、席位调整等信息。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/96923b8969bc4df4bca2eb191df572e8/c.html",
+          "title": "14户中央企业28名领导人员职务任免",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "常张利任中国建材集团有限公司党委书记、董事长，不再担任中国建材集团有限公司总经理职务。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/c14a9fea030d4d42a5542698af0591e3/c.html",
+          "title": "国家疾控局：流感已进入流行季 及时接种流感疫苗",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "新华社北京11月24日电（记者顾天成）国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上介绍，近期，流感等急性呼吸道传染病已进入流行季，登革热、基孔肯雅热等蚊媒传染病境外输入风险持续存在，诺如病毒感染等肠道传染病需"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/f8530309306f476d8393b97b95e01548/c.html",
+          "title": "神舟二十三号载人飞船完成任务后将返回东风着陆场",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "神舟二十三号载人飞船完成任务后将返回东风着陆场-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/dc3c34887a734d0d83fe4c54fdf0c0be/c.html",
+          "title": "新华社消息丨神舟二十四号航天员乘组确定",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "新华社消息丨神舟二十四号航天员乘组确定-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/cb5f50fef5784f12a542d964c2a00bf3/c.html",
+          "title": "新华社消息丨我国瞄准北京时间11月25日08时18分发射神舟二十四号载人飞船",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": "新华社消息丨我国瞄准北京时间11月25日08时18分发射神舟二十四号载人飞船 -"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/348d4749db494f7c952730d911fee703/c.html",
+          "title": "我国大部将迎回暖 云南等地需警惕较强雨雪",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261124/da721fd5f4394e0c97616f98ecdcabe8/c.html",
+          "title": "公安部网安局公布使用AI工具编造传播网络谣言案例",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261123/0690140ffc5b46cca2ce99c5feb30832/c.html",
+          "title": "“十五五”非遗传承人研培计划实施方案印发",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "钟声：扛起大国责任，共同为世界和平托底",
+          "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837749.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平主持中俄美元首会晤",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837273.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平就大国如何正确相处提出4点看法",
+          "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40837188.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "微观察·中俄美元首首次会晤：历史性的一页",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837281.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "APEC十二年间有哪些新变化？",
+          "url": "http://world.people.com.cn/n1/2026/1118/c1002-40836447.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837272.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见印度尼西亚总统普拉博沃",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837753.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见马来西亚总理安瓦尔",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837833.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见泰国总理阿努廷",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837832.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见新加坡总理黄循财",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837772.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837754.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "一见·习近平主席发出的合作邀约,关乎全球工商界的新机遇",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837931.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "亚太经合组织贸易数字化合作框架(2027-2030)",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837773.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "关于亚太地区新兴技术促进就业和繁荣的声明",
+          "url": "https://world.people.com.cn/n1/2026/1120/c1002-40837864.html",
+          "source": "人民网",
+          "category": "民生",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "我国经济动能向新、结构向优",
+          "url": "http://opinion.people.com.cn/n1/2026/0824/c461530-40784643.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "让智能经济更好激发新动能",
+          "url": "http://opinion.people.com.cn/n1/2026/1020/c461529-40817709.html",
+          "source": "人民网",
+          "category": "经济",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "微观察|\"以党章为根本\"",
+          "url": "http://politics.people.com.cn/n1/2026/1125/c1001-40839839.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "一条APEC围巾中的故事",
+          "url": "http://world.people.com.cn/n1/2026/1125/c1002-40839842.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "新时代全面从严治党的伟大成就",
+          "url": "http://opinion.people.com.cn/n1/2026/1125/c461530-40839864.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "完善全球治理,携手迈向人类命运共同体",
+          "url": "http://opinion.people.com.cn/n1/2026/1125/c461529-40839856.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "中共中央印发《中国共产党地方委员会工作条例》",
+          "url": "https://www.gov.cn/zhengce/202611/content_7086080.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "中医药传统知识保护条例",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085591.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+          "url": "https://www.gov.cn/zhengce/202611/content_7085529.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085109.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于2027年部分节假日安排的通知",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-25",
+          "time": "13:18",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "items": [
@@ -32482,371 +32847,6 @@
           "category": "政策",
           "date": "2026-08-28",
           "time": "14:10",
-          "summary": ""
-        }
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "items": [
-        {
-          "url": "https://www.news.cn/politics/20260819/0a91bd9ed23a408ba13c3834d990e8c5/c.html",
-          "title": "“昆仑文化”智库报告解读",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:54",
-          "summary": "横空出世，莽昆仑。这座横亘中国西部、绵延2500多公里的巍峨山脉，平均海拔逾5000米，素享“万山之宗、万水之源”之誉。在中华文明五千多年的历史长河中，“昆仑”既是一座山，又不止于一座山——它闪耀着中华文脉的灼灼光芒，凝练着对天地人的古老哲"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260825/a334cf4b5a2c4311a009c5f9c381cb73/c.html",
-          "title": "新华社权威快报丨道路交通安全法修订草案提请审议",
-          "source": "新华网",
-          "category": "民生",
-          "date": "2026-08-26",
-          "time": "07:54",
-          "summary": "2026年8月25日，道路交通安全法修订草案提请十四届全国人大常委会第二十四次会议初次审议。"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260825/bd01fd72c2034e5a92512daca30b5e22/c.html",
-          "title": "特写：“赛考斯林”迎来“赛考斯”",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:54",
-          "summary": "新华社呼和浩特8月24日电题：特写：“赛考斯林”迎来“赛考斯”"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260825/32dd4afef969492eb3bb8e7c0ba8b9f2/c.html",
-          "title": "瞭望·第一学习丨深刻理解天下为公、天下大同的社会理想",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:54",
-          "summary": "◇中国的思想家很早就认识到和平是最大的财富，将天下太平、人民安宁作为理想社会的重要标准。"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/1bf7eae178ae419cb1685f13d50a7fd4/c.html",
-          "title": "学习快评丨树立和践行正确政绩观必须久久为功",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:54",
-          "summary": "“树立和践行正确政绩观是一项长期任务，必须久久为功”。习近平总书记近日就树立和践行正确政绩观学习教育作出重要指示，为不断巩固拓展学习教育成果，持续推动各级党组织和广大党员、干部立党为公、为民造福、科学决策、真抓实干指明了前进方向、提供了重要"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/bebb01afdc0e41fdb67cd63b40bf108d/c.html",
-          "title": "从东到西，从西到东，看基层挂职干部的“双向奔赴”",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:54",
-          "summary": "今年是我国开展东西部协作30周年。新华社记者行程3200多公里，跟踪拍摄两位当前正分别在江苏省泰州市海陵区和陕西省咸阳市长武县挂职交流的干部，跟着他们上土塬、下田地、跑项目，记录两地交流干部如何“沉浸式”深入当地，推动东西部产业互补、人员互"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/ef0038a4bb8b48ed9b061a8a6a88b367/c.html",
-          "title": "今天的毛乌素沙地，藏着几代人不变的坚守",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": "1953年拍摄的陕西榆林鱼河堡房屋被沙压盖的情形（资料照片）。新华社记者武纯展摄"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/6d60780364cd4bbaa8c9f53dc2172d3e/c.html",
-          "title": "直面风险灾害，他们讲述应急一线的难忘时刻",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": "新华社北京8月24日电题：直面风险灾害，他们讲述应急一线的难忘时刻"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/11f2c5e6d2f244d6b00ed2e13ea30678/c.html",
-          "title": "作协、残联出台意见 让残障文学人才更好发展",
-          "source": "新华网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": "到2035年，残疾人文学创作队伍持续壮大，“形成老中青梯次合理、各门类均衡发展的人才梯队”“文学精品成果不断涌现”……"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/c51e551b9ebb428487a3f6e79e4b0d3f/c.html",
-          "title": "水利部对福建省启动洪水防御Ⅳ级应急响应",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": "新华社北京8月24日电（记者魏弘毅）记者从水利部了解到，水利部于24日对福建省启动洪水防御Ⅳ级应急响应，并派出工作组赴台风暴雨洪水防御一线。"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/b99c37e6124349d9ae8d04d4d774d3f4/c.html",
-          "title": "新华社权威快报丨中国语言资源保护工程成果展示馆开馆",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": "8月24日，位于湖南长沙的中国语言资源保护工程成果展示馆正式开放。"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260824/d1e19aac126b44b69ab621c0d961903f/c.html",
-          "title": "“那真是一票难求！”",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": "“那真是一票难求！”-1930年，梅兰芳自筹经费，远渡重洋七年磨一剑，让美国观众第一次为京剧屏息2026年，国家京剧院70人，远赴巴西4城6场，一票难求青年演员在雨中演绎《断桥》水袖翻飞，台下无人离席谢幕时，掌声雷动，观众席中一面五星红旗高"
-        },
-        {
-          "url": "https://www.news.cn/politics/20260823/6ed8fae7e345476383b3a3f2698a0892/c.html",
-          "title": "殷玉珍和“赛考斯” 跨越20多年的“绿色之约”",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "url": "https://www.news.cn/politics/20260823/e5a9f835950246d19cf2e6e80720dfc9/c.html",
-          "title": "万里边疆行丨“网胡子老于”与国道的故事",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "url": "https://www.news.cn/politics/20260823/f3e011979e944fc29c1d3af8ab408468/c.html",
-          "title": "国务院食安办等多部门指导地方严查甲醛白菜",
-          "source": "新华网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "中办国办印发《党政领导干部生态环境损害责任追究办法》",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786013.html",
-          "source": "人民网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "中组部答记者问：向失职失责“亮剑” 为美丽中国“护航”",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c461001-40786023.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "推动“十五五”美丽中国建设取得新的重大进展",
-          "url": "http://politics.people.com.cn/n1/2026/0703/c461001-40753205.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "美丽中国建设成效考核怎样体现群众满意程度",
-          "url": "http://politics.people.com.cn/n1/2026/0814/c461001-40779227.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "久久为功,不断巩固拓展学习教育成果",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c461001-40786014.html",
-          "source": "人民网",
-          "category": "民生",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "十四届全国人大常委会第二十四次会议举行 赵乐际主持",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1024-40786017.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "全国政协十四届常委会第十八次会议开幕 王沪宁出席",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1024-40786018.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "韩正会见印度国家安全顾问、中印边界问题印方特别代表",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786019.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "今日谈|把正确政绩观化为行动自觉",
-          "url": "http://opinion.people.com.cn/n1/2026/0826/c461529-40786020.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "中国引领人工智能全球治理的三重路径",
-          "url": "http://opinion.people.com.cn/n1/2026/0826/c461530-40786051.html",
-          "source": "人民网",
-          "category": "科技",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "APEC中国年|为亚太地区带来更多稳定性和发展机遇",
-          "url": "http://world.people.com.cn/n1/2026/0826/c1002-40786025.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "别让甲醛伪科普,模糊真正的食品安全漏洞",
-          "url": "http://opinion.people.com.cn/n1/2026/0825/c436867-40785887.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "加拿大宣布对美加征等额反制关税 涉700多种商品",
-          "url": "http://world.people.com.cn/n1/2026/0826/c1002-40786095.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "伊朗与阿曼拟建立霍尔木兹海峡安全海上通道",
-          "url": "http://world.people.com.cn/n1/2026/0826/c1002-40786012.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "中印边界问题特别代表在北京举行会晤",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786032.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "刘国中出席第十一届亚太经合组织粮食安全部长级会议开幕式并致辞",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786021.html",
-          "source": "人民网",
-          "category": "民生",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "陈文清会见越南最高人民法院院长阮文广",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786034.html",
-          "source": "人民网",
-          "category": "法治",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "十四届全国人大常委会第二十四次会议审议多部法律草案和报告",
-          "url": "http://politics.people.com.cn/n1/2026/0826/c1001-40786035.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "见证中美民间友好薪火相传",
-          "url": "http://opinion.people.com.cn/n1/2026/0826/c461529-40786033.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "评论丨“同步抓”新老问题",
-          "url": "http://opinion.people.com.cn/n1/2026/0826/c461529-40786038.html",
-          "source": "人民网",
-          "category": "要闻",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "中共中央办公厅 国务院办公厅印发《党政领导干部生态环境损害责任追究办法》",
-          "url": "https://www.gov.cn/zhengce/202608/content_7079098.htm",
-          "source": "中国政府网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "中共中央 国务院 中央军委关于给张陆颁发“二级航天功勋奖章” 授予武飞、张洪章“英雄航天员”荣誉称号并颁发“三级航天功勋奖章”的决定",
-          "url": "https://www.gov.cn/zhengce/202608/content_7078711.htm",
-          "source": "中国政府网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "国务院关于修改《住房公积金管理条例》的决定",
-          "url": "https://www.gov.cn/zhengce/content/202608/content_7078477.htm",
-          "source": "中国政府网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "国务院关于《特殊教育发展提升“十五五”行动计划》的批复",
-          "url": "https://www.gov.cn/zhengce/content/202608/content_7078320.htm",
-          "source": "中国政府网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
-          "summary": ""
-        },
-        {
-          "title": "国务院关于修改和废止部分行政法规的决定",
-          "url": "https://www.gov.cn/zhengce/content/202608/content_7077980.htm",
-          "source": "中国政府网",
-          "category": "政策",
-          "date": "2026-08-26",
-          "time": "07:55",
           "summary": ""
         }
       ]
