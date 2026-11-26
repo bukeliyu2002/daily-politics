@@ -1,6 +1,371 @@
 {
-  "updatedAt": "2026-11-25T13:18:22+08:00",
+  "updatedAt": "2026-11-26T12:47:01+08:00",
   "days": [
+    {
+      "date": "2026-11-26",
+      "items": [
+        {
+          "url": "https://www.news.cn/politics/20261126/cbd5e443729f42dd9a54884a5065eee0/c.html",
+          "title": "五问+一图，读懂《新一代通信网建设实施方案》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "近日，经国务院同意，工业和信息化部联合国家网信办、国家发展改革委印发《新一代通信网建设实施方案》（以下简称《实施方案》），为更好理解和贯彻落实《实施方案》，现就有关内容解读如下。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261126/f2b9443106ea4399927649fbf5d80689/c.html",
+          "title": "新华社权威快报丨新一代通信网建设迎来路线图",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "新一代通信网建设迎来路线图。工业和信息化部、国家网信办、国家发展改革委11月26日对外发布《新一代通信网建设实施方案》。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261126/b2d0203664d045fa8e6f1d9764eff31e/c.html",
+          "title": "医保上线新功能 参保人可便捷查询个人用药情况",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "记者11月26日从国家医保局获悉，依托全国统一医保信息平台，“连续用药管理”功能上线，参保人可便捷查询个人用药情况、购药记录，范围覆盖全国所有定点医疗机构和定点零售药店，并支持按年度、购药机构、购药渠道等多维度筛选。在就医时，参保人还可授权"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/730b6521de484707be5e4eaa32d526ef/c.html",
+          "title": "今年“三北”工程建设任务已完成过九成",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "新华社北京11月25日电（记者黄垚）记者从国家林草局25日召开的“三北”工程攻坚战工作推进会获悉，截至目前，今年“三北”工程建设任务已完成过九成，工程建设取得明显成效。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/3c66aefb122e4de58b687560ca1436e2/c.html",
+          "title": "“素馨花”绽放中国“天宫 ” “巴铁”老乡送祝福",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "11月25日，神舟二十四号载人飞船入轨后，成功对接于空间站天和核心舱。中国“天宫”迎来首位外籍航天员——来自巴基斯坦的穆罕默德·齐尚·阿里。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/68adbd2d4d0d4d1eb88988b0a52f06b9/c.html",
+          "title": "财政部等五部门印发《常态化帮扶资金绩效评价办法》",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "新华社北京11月25日电（记者申铖）记者11月25日从财政部了解到，为规范和加强常态化帮扶资金管理，财政部、农业农村部等五部门近日印发《常态化帮扶资金绩效评价办法》。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/592d3a3bd29141dcb69af776c4a9852f/c.html",
+          "title": "截至10月底全国累计发电装机容量达41.6亿千瓦",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "新华社北京11月25日电国家能源局11月25日发布数据显示，截至10月底，全国累计发电装机容量41.6亿千瓦，同比增长10.9%。其中，太阳能发电装机容量13.3亿千瓦，同比增长16.3%；风电装机容量7.1亿千瓦，同比增长20%。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/df4c2ae532154c3fadd8495bca28a076/c.html",
+          "title": "神舟二十四号丨神二十四乘组进驻“天宫” 中外航天员首次“太空握手”",
+          "source": "新华网",
+          "category": "科技",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "新华社酒泉11月25日电（记者李国利、米思源）神舟二十四号航天员乘组25日顺利进驻“天宫”，中外航天员实现首次“太空握手”。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/736ed59c9e1f4b76a3621496dcb13cf9/c.html",
+          "title": "神舟二十四号载人飞船与空间站组合体完成自主快速交会对接",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "神舟二十四号载人飞船与空间站组合体，25日完成自主快速交会对接。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/f26c7a72c63f40b4b3adb5ea686864cd/c.html",
+          "title": "新华社消息丨《全民国防教育“十五五”规划》印发",
+          "source": "新华网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "新华社消息丨《全民国防教育“十五五”规划》印发-"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/43f27523435848c0930c693e85926801/c.html",
+          "title": "60秒回顾神舟二十四号发射精彩瞬间",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "11月25日凌晨，神舟二十四号载人飞行任务航天员乘组出征仪式，在酒泉卫星发射中心问天阁圆梦园广场举行。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/010fcadf4aab4e708b1035c3bddad89c/c.html",
+          "title": "全国大部雨雪稀少迎回暖 最高气温20℃线将北抬至河北一带",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:46",
+          "summary": "今明天（11月25日至26日），我国雨雪范围明显收缩，后天起大部地区将以晴朗干燥天气为主。随着雨雪天气缩减，南北方陆续进入升温行列，明天最高气温20℃线将北抬至河北南部，多地气温会回升至较常年同期大幅偏高水平。"
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/dbc2dcf955f14f498ddb92ed6a0049f4/c.html",
+          "title": "神舟二十四号丨神舟二十四号载人飞船发射取得圆满成功",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/2b4343e5a8ea4675b18d7219d45ca62f/c.html",
+          "title": "神舟二十四号出征仪式现场观众：祝成功，待凯旋",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "url": "https://www.news.cn/politics/20261125/11ba18a24d664f198d6740f2277645bc/c.html",
+          "title": "工作没着落，租房太早、酒店太贵？这些青年驿站懂你",
+          "source": "新华网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "钟声：扛起大国责任，共同为世界和平托底",
+          "url": "http://opinion.people.com.cn/n1/2026/1120/c461529-40837749.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平主持中俄美元首会晤",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837273.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平就大国如何正确相处提出4点看法",
+          "url": "http://politics.people.com.cn/n1/2026/1119/c1024-40837188.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "微观察·中俄美元首首次会晤：历史性的一页",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837281.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "APEC十二年间有哪些新变化？",
+          "url": "http://world.people.com.cn/n1/2026/1118/c1002-40836447.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平主持亚太经合组织第三十三次领导人非正式会议并发表重要讲话",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837272.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见印度尼西亚总统普拉博沃",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837753.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见马来西亚总理安瓦尔",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837833.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见泰国总理阿努廷",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837832.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见新加坡总理黄循财",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837772.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平会见澳大利亚总理阿尔巴尼斯",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c1024-40837754.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "一见·习近平主席发出的合作邀约,关乎全球工商界的新机遇",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837931.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "亚太经合组织贸易数字化合作框架(2027-2030)",
+          "url": "http://politics.people.com.cn/n1/2026/1120/c461001-40837773.html",
+          "source": "人民网",
+          "category": "国际",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "关于亚太地区新兴技术促进就业和繁荣的声明",
+          "url": "https://world.people.com.cn/n1/2026/1120/c1002-40837864.html",
+          "source": "人民网",
+          "category": "民生",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "和音丨“购物开箱”，打开认知中国新视角",
+          "url": "http://opinion.people.com.cn/n1/2026/1126/c461529-40840512.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "在中国购物，是一种怎样的体验？",
+          "url": "https://world.people.com.cn/n1/2026/1026/c1002-40821895.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "“China Haul”为何成为新潮流？",
+          "url": "http://world.people.com.cn/n1/2026/1014/c1002-40813999.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平对党内法规工作作出重要指示",
+          "url": "http://politics.people.com.cn/n1/2026/1126/c1024-40840504.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "习近平同扎尔达里就中巴航天员执行联合飞行任务互致贺电",
+          "url": "http://politics.people.com.cn/n1/2026/1126/c1024-40840505.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "推动中国装备制造不断迈上新台阶",
+          "url": "http://politics.people.com.cn/n1/2026/1126/c1001-40840542.html",
+          "source": "人民网",
+          "category": "要闻",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "中共中央印发《中国共产党地方委员会工作条例》",
+          "url": "https://www.gov.cn/zhengce/202611/content_7086080.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "中医药传统知识保护条例",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085591.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "中共中央发出通知 部署党的二十一大代表选举工作",
+          "url": "https://www.gov.cn/zhengce/202611/content_7085529.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "国务院关于辽宁等9省区国家级自然保护区和国家级风景名胜区整合优化方案的批复",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085109.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        },
+        {
+          "title": "国务院办公厅关于2027年部分节假日安排的通知",
+          "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+          "source": "中国政府网",
+          "category": "政策",
+          "date": "2026-11-26",
+          "time": "12:47",
+          "summary": ""
+        }
+      ]
+    },
     {
       "date": "2026-11-25",
       "items": [
